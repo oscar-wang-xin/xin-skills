@@ -88,15 +88,11 @@
 
 ## 安装方法
 
-### 方式一：Reasonix（推荐）
-
-在 Reasonix 中运行 `/install-capability`，从本仓库地址安装；或将任意技能目录放入本机的 skills 目录后重新加载即可生效。
-
-### 方式二：通用 Agent Skills
+### 方式一：通用 Agent Skills
 
 以目录为单位放置：把 `xin-fanqie-style-xxx/`（含 `SKILL.md`）复制到 Agent 的 skills 目录（如 `~/.claude/skills/`），目录名即技能名。
 
-### 方式三：zip 直接分发
+### 方式二：zip 直接分发
 
 仓库根目录保留了每个技能的 `.zip` 打包，单文件下载后解压即得完整技能目录，适合手动分享与离线安装。
 
