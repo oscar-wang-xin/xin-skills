@@ -1,5 +1,6 @@
 # Reasonix 桌面端元数据，不入库
 .reasonix/
+reasonix.toml
 
 # 系统文件
 Thumbs.db
