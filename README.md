@@ -4,6 +4,7 @@
 
 - 共 **93 个技能**：**番茄小说风格 19 个** ＋ **古龙武侠风格 4 个** ＋ **金庸武侠风格 10 个** ＋ **黄易风格 7 个** ＋ **网络文学名家风格 31 个** ＋ **梁羽生武侠风格 22 个**
 - 每个技能 = `SKILL.md`（十维风格规范）＋ `references/style_examples.md`（风格样本，91 个技能附带）
+- 一键安装：`npx skills add oscar-wang-xin/xin-skills`
 - 格式兼容 Reasonix Skills / Claude Skills / 通用 Agent Skills
 
 ---
@@ -153,15 +154,40 @@
 
 ## 安装方法
 
-### 方式一：通用 Agent Skills
+### 方式一：npx skills add（推荐）
+
+本仓库符合 Agent Skills 规范（93 个技能均含带 `name` / `description` 的 `SKILL.md`），可用官方 CLI 一条命令安装——CLI 会自动发现仓库内全部技能，并检测本机已安装的 AI Agent：
+
+```bash
+# 安装全部技能
+npx skills add oscar-wang-xin/xin-skills
+
+# 先预览仓库中有哪些技能
+npx skills add oscar-wang-xin/xin-skills --list
+
+# 只安装指定技能（--skill 可重复多次）
+npx skills add oscar-wang-xin/xin-skills --skill xin-fanqie-style-baiyujing
+
+# 指定目标 Agent 并跳过交互提示
+npx skills add oscar-wang-xin/xin-skills -a reasonix -a claude-code -y
+
+# 全局安装（对所有项目生效）
+npx skills add oscar-wang-xin/xin-skills -g -y
+```
+
+- **安装范围**：项目级 `./<agent>/skills/`（默认）或全局 `~/<agent>/skills/`（加 `-g`）
+- **支持的 Agent**：Reasonix、Claude Code、Codex、Cursor 等 20+ 种；未检测到时会提示选择
+- **配套命令**：`npx skills list` 查看已装、`npx skills update` 更新、`npx skills remove` 卸载
+
+### 方式二：通用 Agent Skills
 
 以目录为单位放置：把 `xin-fanqie-style-xxx/`（含 `SKILL.md`）复制到 Agent 的 skills 目录（如 `~/.claude/skills/`），目录名即技能名。
 
-### 方式二：zip 上传至 AI 工具（豆包 / WorkBuddy 等）
+### 方式三：zip 上传至 AI 工具（豆包 / WorkBuddy 等）
 
 支持自定义技能/插件导入的 AI 工具（如豆包、WorkBuddy 等）普遍采用 **zip 上传**方式：直接上传对应技能的 `.zip` 文件，工具会自动解压并识别 `SKILL.md` 完成技能安装，无需手动放置目录。
 
-### 方式三：zip 直接分发
+### 方式四：zip 直接分发
 
 仓库根目录保留了每个技能的 `.zip` 打包，单文件下载后解压即得完整技能目录，适合手动分享与离线安装。
 
