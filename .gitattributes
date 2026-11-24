@@ -1,0 +1,18 @@
+# 换行统一：仓库默认 LF（此前无 .gitattributes，工作树被全局 core.autocrlf 转成 CRLF，
+# 与 zip 内的 LF 永久不一致，重新打包必产生无意义 diff）
+* text=auto eol=lf
+
+# Windows 脚本保留 CRLF
+*.bat  text eol=crlf
+*.cmd  text eol=crlf
+*.ps1  text eol=crlf
+
+# 二进制
+*.zip   binary
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.gif   binary
+
+# 私有开发区：永不开源。git archive / 导出时整段剔除（双保险，主机制见 .git/info/exclude）
+dev/ export-ignore
