@@ -14,5 +14,5 @@
 *.jpeg  binary
 *.gif   binary
 
-# 私有开发区：永不开源。git archive / 导出时整段剔除（双保险，主机制见 .git/info/exclude）
+# 本地私有目录：导出时剔除
 dev/ export-ignore

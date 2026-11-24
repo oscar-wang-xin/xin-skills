@@ -1,6 +1,7 @@
 ---
-name: “xin-lady-style-xiangshijiexianshangxianyu”
-description: “扶华《向师祖献上咸鱼》文风锁定技能包——穿越仙侠咸鱼吐槽腔。社畜女主穿进修仙界，人名前缀裸对白、表情包收尾、真话BUFF游戏梗、长段毒舌内心OS。适用：穿越/系统流/仙侠甜文/沙雕吐槽风仿写。”
+name: xin-lady-style-xiangshijiexianshangxianyu
+description: "《向师祖献上咸鱼》文风锁定技能（扶华）。触发词：向师祖献上咸鱼文风、向师祖献上咸鱼风格。核心：穿越仙侠 · 咸鱼吐槽 · 表情包收尾。"
+keywords: "穿越仙侠 · 咸鱼吐槽 · 表情包收尾"
 ---
 
 # 向师祖献上咸鱼 · 文风锁定（xin-lady-style）

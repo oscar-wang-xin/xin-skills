@@ -10,5 +10,5 @@ desktop.ini
 # Alma 本地快照，不入库
 .alma-snapshots/
 
-# 打包产物（由 dev/tools/pack-zips.py 生成，不入库）
+# 打包产物（本地生成的 zip，不入库）
 dist/

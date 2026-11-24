@@ -28,11 +28,16 @@
 
 ## 技能总览
 
+<!-- BEGIN:SKILL-INDEX -->
+
+<!-- 本节自动生成，请勿手改 -->
+
 ### 🍅 番茄小说风格（19 个）
 
 | 技能目录名 | 文风锁定对象 | 风格关键词 |
 | --- | --- | --- |
 | `xin-fanqie-style-baiyujing` | 《剑起白玉京》 | 轻松沙雕仙侠 · 现代口语解构修仙 · 双线交织 |
+| `xin-fanqie-style-busidishi` | 《不死帝师》 | 长生流 · 时间差碾压 · 旁观式温情 |
 | `xin-fanqie-style-diaodazhutian` | 《镇守百万年，我的徒弟吊打诸天》 | 搞笑轻松 · 爽文碾压 · 师徒反差 |
 | `xin-fanqie-style-difujiaowoxiaoxiansheng` | 《地府叫我小先生》 | 悬疑灵异 · 北方乡土语言 · 民间传说考据 |
 | `xin-fanqie-style-feishengshaletiandi` | 《危！刚飞升我就杀了天帝？》 | 沙雕爽文 · 仙侠狼人杀 · 悬疑推理 |
@@ -43,20 +48,19 @@
 | `xin-fanqie-style-hanfeixiuxian` | 《谁让这个悍匪修仙的！》 | 搞笑腹黑 · 土匪思维解构修仙 · 反差爽文 |
 | `xin-fanqie-style-moshibianzhi` | 《我给末世主角们发编制》 | 反套路 · 国家力量降维打击 · 冷幽默群像 |
 | `xin-fanqie-style-shirizhongyan` | 《十日终焉》 | 冷峻悬疑 · 死亡博弈 · 推理反转 |
+| `xin-fanqie-style-wobushixishen` | 《我不是戏神》 | 中式怪诞 · 诡异恐怖 · 冷幽默 |
 | `xin-fanqie-style-yanyulou` | 《烟雨楼》 | 传统玄幻扮猪吃虎 · 多视角 · 冷幽默 |
+| `xin-fanqie-style-yishoumicheng` | 《异兽迷城》 | 都市克苏鲁 · 兽化生存 · 悬疑推演 |
 | `xin-fanqie-style-zhanshen` | 《我在精神病院学斩神》 | 温馨日常 · 悬疑暗线 · 信息差 |
 | `xin-fanqie-style-zhenliyijian` | 《真理，掌握在我一剑之内》 | 冷峻黑暗复仇 · 锋利讽刺 · 热血燃 |
 | `xin-fanqie-style-zhenyaoguan` | 《从前有座镇妖关》 | 黑色幽默 · 反差沙雕 · 都市高武 |
 | `xin-fanqie-style-zhushenyuxi` | 《诸神愚戏》 | 克系黑色幽默 · 神明末世 · 荒诞吐槽 |
-| `xin-fanqie-style-busidishi` | 《不死帝师》 | 长生流 · 时间差碾压 · 旁观式温情 |
-| `xin-fanqie-style-wobushixishen` | 《我不是戏神》 | 中式怪诞 · 诡异恐怖 · 冷幽默 |
-| `xin-fanqie-style-yishoumicheng` | 《异兽迷城》 | 都市克苏鲁 · 兽化生存 · 悬疑推演 |
 
 ### 🥋 古龙武侠风格（4 个）
 
 | 技能目录名 | 文风锁定对象 | 风格关键词 |
 | --- | --- | --- |
-| `xin-gulong-style-7wuqi-quantou` | 《七种武器之拳头》（愤怒的小马） | 热血浪子 · 黑色幽默 · 江湖残酷 |
+| `xin-gulong-style-7wuqi-quantou` | 《七种武器之拳头》 | 热血浪子 · 黑色幽默 · 江湖残酷 |
 | `xin-gulong-style-chuliuxiangdashamo` | 《楚留香系列·大沙漠》 | 武侠悬疑 · 朋友情谊 · 冷幽默 |
 | `xin-gulong-style-duoqingjianke` | 《多情剑客无情剑》 | 苍凉浪漫 · 江湖豪情 · 个人悲歌 |
 | `xin-gulong-style-huanleyingxiong` | 《欢乐英雄》 | 轻松欢乐 · 底层温情 · 以弱制强 |
@@ -87,42 +91,6 @@
 | `xin-huangyi-style-shouxinghuigui` | 《兽性回归》 | 科幻悬疑 · 理性克制 · 兽性撕扯 |
 | `xin-huangyi-style-xingjilangzi` | 《星际浪子》 | 太空歌剧 · 黄易科幻 · 人性探索 |
 | `xin-huangyi-style-xunqinji` | 《寻秦记》 | 穿越权谋 · 雄性爽文 · 战国香艳 |
-
-### 📚 网络文学名家风格（31 个）
-
-| 技能目录名 | 文风锁定对象 | 风格关键词 |
-| --- | --- | --- |
-| `xin-fenghuoxizhuhou-style-jianlai` | 《剑来》（烽火戏诸侯） | 市井烟火 · 冷幽默 · 哲理 |
-| `xin-fenghuoxizhuhou-style-xuezhonghandaoxing` | 《雪中悍刀行》（烽火戏诸侯） | 市井江湖气 · 文人雅致 · 从容闲笔 |
-| `xin-fennudexiangjiao-style-nitianwudi` | 《逆天武帝》（愤怒的香蕉） | 废柴逆袭 · 亲情温情 · 隐忍复仇 |
-| `xin-fennudexiangjiao-style-yiyuqiushengriji` | 《异域求生日记》（愤怒的香蕉） | 温柔哀伤 · 哲学沉思 · 抒情 |
-| `xin-jiangnan-style-xiedu` | 《亵渎》（烟雨江南） | 暗黑欲望 · 权谋 · 反英雄 |
-| `xin-maoni-style-jiangye` | 《将夜》（猫腻） | 长句铺陈 · 文气克制 · 章末留白 |
-| `xin-aiqianshuidewuzei-style-guimizhizhu` | 《诡秘之主》（爱潜水的乌贼） | 克苏鲁 · 冷峻悬疑 · 黑色幽默 |
-| `xin-yuantong-style-yichangshengwu` | 《异常生物见闻录》（远瞳） | 轻松搞笑 · 吐槽 · 都市科幻 |
-| `xin-qingheyikan-style-chixinxuntian` | 《赤心巡天》（情何以堪） | 沉郁悲悯 · 侠气 · 苍凉 |
-| `xin-wangyu-style-fanrenxiuxianzhuan` | 《凡人修仙传》（忘语） | 冷静克制 · 写实 · 低对话高内心 |
-| `xin-apu-style-shanhaijingmima` | 《山海经密码》（阿菩） | 史诗苍凉 · 上古神话探秘 · 权谋博弈 |
-| `xin-chunjiedexiaolong-style-laoshiren` | 《捞尸人》（纯洁滴小龙） | 东北乡村年代传奇 · 灵异 |
-| `xin-ergen-style-qiumo` | 《求魔》（耳根） | 苍凉孤执 · 命运抗争 · 画面感 |
-| `xin-ergen-style-xianni` | 《仙逆》（耳根） | 逆天改命 · 坚韧沧桑 · 杀伐决断 |
-| `xin-fennudexiangjiao-style-yinsha` | 《隐杀》（愤怒的香蕉） | 杀手重生 · 轻松YY · 冷面笑匠反差 |
-| `xin-jiangnan-style-yongyejunzhu` | 《永夜君王》（烟雨江南） | 暗黑残酷 · 绝境逆袭 · 末世科幻 |
-| `xin-jiyueren-style-xuanjianxianzu` | 《玄鉴仙族》 | 家族修仙 · 代际传承 · 冷静克制 |
-| `xin-maibaoxiaolangjun-style-dafengdagengren` | 《大奉打更人》（卖报小郎君） | 探案 · 黑色幽默 · 现代社畜穿越 |
-| `xin-maoni-style-dadaochaotian` | 《大道朝天》（猫腻） | 剑修 · 智性视角 · 疏离诙谐 |
-| `xin-maoni-style-qingyunian` | 《庆余年》（猫腻） | 穿越权谋 · 庙堂江湖 · 范闲 |
-| `xin-rushuiyi-style-woqiangshen` | 《我枪神》（如水意） | 都市枪战 · 硬核写实 · 战友群像 |
-| `xin-wenchaogong-style-gouzailiangjiexiuxian` | 《苟在两界修仙》（文抄公） | 苟道流 · 两界穿越 · 理性克制 |
-| `xin-xiaoding-style-zhuxian` | 《诛仙》（萧鼎） | 古典仙侠 · 半文半白 · 张小凡 |
-| `xin-xionglanggou-style-meiqianxiushenmexian` | 《没钱修什么仙》（熊狼狗） | 科学修仙 · 都市无厘头 |
-| `xin-yanleisheng-style-tianxingjian` | 《天行健》（燕垒生） | 史诗战争 · 冷静克制 · 军旅厚重 |
-| `xin-yuantong-style-limingzhijian` | 《黎明之剑》（远瞳） | 基建种田 · 理工男吐槽 · 文明苍凉 |
-| `xin-yutingjun-style-huangtiancangtianyisi` | 《我名黄天苍天已死什么鬼》（玉庭君） | 历史穿越 · 沙雕玩梗 · 非系统修仙 |
-| `xin-zhangxiaohua-style-shishangdiyihunluan` | 《史上第一混乱》（张小花） | 反穿越 · 恶搞 · 历史人物现代 |
-| `xin-zhangxiaohua-style-wojiushiyaoguai` | 《我就是妖怪》（张小花） | 妖怪日常 · 贱萌吐槽 · 市井喜剧 |
-| `xin-zhouzi-style-qingshan` | 《青山》（会说话的肘子） | 灵气复苏 · 冷峻克制 · 孤独底色 |
-| `xin-zhouzi-style-yedemingmingshu` | 《夜的命名术》（会说话的肘子） | 梦境穿越 · 平行世界 · 少年悲悯 |
 
 ### 📖 梁羽生武侠风格（22 个）
 
@@ -155,35 +123,73 @@
 
 | 技能目录名 | 文风锁定对象 | 风格关键词 |
 | --- | --- | --- |
-| `xin-lady-style-12years_gurenxi` | 《十二年，故人戏》（墨宝非宝） | 民国言情 · 短段碎行 · 对白嵌入叙述 |
-| `xin-lady-style-baiseganlanshu` | 《白色橄榄树》（玖月晞） | 现代军旅 · 战地言情 · 克制留白 |
-| `xin-lady-style-beichengyouxue` | 《北城有雪》（明开夜合） | 都市言情 · 婉约细腻 · 破镜重圆 |
-| `xin-lady-style-caomeixi` | 《谁懂啊，娘娘写了一百条宫规》（草莓汐） | 宫斗群像 · 谨慎大女主 · 冷幽默吐槽 |
-| `xin-lady-style-changdi` | 《长嫡》（莞尔wr） | 唐风宅斗 · 梦境预知 · 心理推演 |
-| `xin-lady-style-dongchangguanchabiji` | 《东厂观察笔记》（她与灯） | 明朝穿越 · 短段节奏 · 现代学术吐槽 |
-| `xin-lady-style-gongyu` | 《攻玉》（萧寒城） | 原耽朝堂 · 双男主互怼 · 高台词占比 |
-| `xin-lady-style-jiaoniangyijing` | 《娇娘医经》（希行） | 古言种田 · 医术流 · 标签密挂 |
-| `xin-lady-style-jiuchongzi` | 《九重紫》（吱吱） | 宅斗重生 · 账本笔法 · 笑道标签 |
-| `xin-lady-style-kunning` | 《坤宁》（时镜） | 宫廷重生 · 碎行流 · 情绪直给 |
-| `xin-lady-style-meigongqing` | 《媚公卿》（林家成） | 魏晋门阀 · 重生发家 · 半角冒号直引 |
-| `xin-lady-style-moumou` | 《某某》（木苏里） | 现代校园 · 群口对白 · 少年群像 |
-| `xin-lady-style-niaosongmi` | 《冷战三年，扯证离婚他却悔红了眼》（鸟松米） | 先婚后爱 · 追妻火葬场 · 冷感毒舌 |
-| `xin-lady-style-nvjiangxing` | 《重生之女将星》（千山茶客） | 女扮男装 · 重生复仇 · 宣言短钩 |
-| `xin-lady-style-qiafengyuliantian` | 《恰逢雨连天》（沉筱之） | 权谋言情 · 朝堂书卷语 · 对白收束 |
-| `xin-lady-style-quanhuanxintouzhushazhi` | 《权宦心头朱砂痣》（袖侧） | 宅门权谋 · 二嫁古言 · 反问式钩子 |
-| `xin-lady-style-shanzhong` | 《善终》（玖拾陆） | 宅斗重生 · 物件证重生 · 家人暖线 |
-| `xin-lady-style-shenghua` | 《盛华》（闲听落花） | 重生权谋 · 家族群像 · 绵密长句 |
-| `xin-lady-style-sijin` | 《似锦》（冬天的柳叶） | 宅斗权谋 · 重生宠文 · 心理蒙太奇 |
-| `xin-lady-style-xiangshijiexianshangxianyu` | 《向师祖献上咸鱼》（扶华） | 穿越仙侠 · 咸鱼吐槽 · 表情包收尾 |
-| `xin-lady-style-xionganxianchangzhibo` | 《凶案现场直播》（退戈） | 悬疑直播 · 多媒介文本 · 冷幽默毒舌 |
-| `xin-lady-style-xuyizhufeng` | 《癫，都癫，癫点好啊》（小盐子） | 穿书恋综 · 发癫女主 · 多声部弹幕 |
-| `xin-lady-style-yidaijunshi` | 《随波逐流之一代军师》（随波逐流） | 第一人称谋士 · 史传引文 · 流水句推演 |
-| `xin-lady-style-youfei` | 《有匪》（priest） | 武侠言情 · 文白杂糅 · 长句连缀 |
-| `xin-lady-style-yuanlaiyueliangxiandongxin` | 《原来月亮先动心》（三奈果子） | 校园甜宠 · 年龄差 · 轻喜剧对白 |
-| `xin-lady-style-yuemingqianli` | 《月明千里》（罗青梅） | 和亲穿书 · 文人雅言 · 西域丝路 |
-| `xin-lady-style-长安小饭馆` | 《长安小饭馆》（樱桃糕） | 古风美食 · 现代梗互文 · 市井轻喜剧 |
-| `xin-lady-style-折腰` | 《折腰》（蓬莱客） | 乱世权谋 · 先婚后爱 · 半文半白 |
-| `xin-lady-style-珍馐记` | 《珍馐记》（咩咩桑） | 美食经营 · 预知梦悬疑 · 群像喜剧 |
+| `xin-lady-style-12years-gurenxi` | 《十二年，故人戏》 | 民国言情 · 短段碎行 · 对白嵌入叙述 |
+| `xin-lady-style-baiseganlanshu` | 《白色橄榄树》 | 现代军旅 · 战地言情 · 克制留白 |
+| `xin-lady-style-beichengyouxue` | 《北城有雪》 | 都市言情 · 婉约细腻 · 破镜重圆 |
+| `xin-lady-style-caomeixi` | 《谁懂啊，娘娘写了一百条宫规》 | 宫斗群像 · 谨慎大女主 · 冷幽默吐槽 |
+| `xin-lady-style-changanxiaofanguan` | 《长安小饭馆》 | 古风美食 · 现代梗互文 · 市井轻喜剧 |
+| `xin-lady-style-changdi` | 《长嫡》 | 唐风宅斗 · 梦境预知 · 心理推演 |
+| `xin-lady-style-dongchangguanchabiji` | 《东厂观察笔记》 | 明朝穿越 · 短段节奏 · 现代学术吐槽 |
+| `xin-lady-style-gongyu` | 《攻玉》 | 原耽朝堂 · 双男主互怼 · 高台词占比 |
+| `xin-lady-style-jiaoniangyijing` | 《娇娘医经》 | 古言种田 · 医术流 · 标签密挂 |
+| `xin-lady-style-jiuchongzi` | 《九重紫》 | 宅斗重生 · 账本笔法 · 笑道标签 |
+| `xin-lady-style-kunning` | 《坤宁》 | 宫廷重生 · 碎行流 · 情绪直给 |
+| `xin-lady-style-meigongqing` | 《媚公卿》 | 魏晋门阀 · 重生发家 · 半角冒号直引 |
+| `xin-lady-style-moumou` | 《某某》 | 现代校园 · 群口对白 · 少年群像 |
+| `xin-lady-style-niaosongmi` | 《冷战三年，扯证离婚他却悔红了眼》 | 先婚后爱 · 追妻火葬场 · 冷感毒舌 |
+| `xin-lady-style-nvjiangxing` | 《重生之女将星》 | 女扮男装 · 重生复仇 · 宣言短钩 |
+| `xin-lady-style-qiafengyuliantian` | 《恰逢雨连天》 | 权谋言情 · 朝堂书卷语 · 对白收束 |
+| `xin-lady-style-quanhuanxintouzhushazhi` | 《权宦心头朱砂痣》 | 宅门权谋 · 二嫁古言 · 反问式钩子 |
+| `xin-lady-style-shanzhong` | 《善终》 | 宅斗重生 · 物件证重生 · 家人暖线 |
+| `xin-lady-style-shenghua` | 《盛华》 | 重生权谋 · 家族群像 · 绵密长句 |
+| `xin-lady-style-sijin` | 《似锦》 | 宅斗权谋 · 重生宠文 · 心理蒙太奇 |
+| `xin-lady-style-xiangshijiexianshangxianyu` | 《向师祖献上咸鱼》 | 穿越仙侠 · 咸鱼吐槽 · 表情包收尾 |
+| `xin-lady-style-xionganxianchangzhibo` | 《凶案现场直播》 | 悬疑直播 · 多媒介文本 · 冷幽默毒舌 |
+| `xin-lady-style-xuyizhufeng` | 《癫，都癫，癫点好啊》 | 穿书恋综 · 发癫女主 · 多声部弹幕 |
+| `xin-lady-style-yidaijunshi` | 《随波逐流之一代军师》 | 第一人称谋士 · 史传引文 · 流水句推演 |
+| `xin-lady-style-youfei` | 《有匪》 | 武侠言情 · 文白杂糅 · 长句连缀 |
+| `xin-lady-style-yuanlaiyueliangxiandongxin` | 《原来月亮先动心》 | 校园甜宠 · 年龄差 · 轻喜剧对白 |
+| `xin-lady-style-yuemingqianli` | 《月明千里》 | 和亲穿书 · 文人雅言 · 西域丝路 |
+| `xin-lady-style-zhenxiuji` | 《珍馐记》 | 美食经营 · 预知梦悬疑 · 群像喜剧 |
+| `xin-lady-style-zheyao` | 《折腰》 | 乱世权谋 · 先婚后爱 · 半文半白 |
+
+### 📚 网络文学名家风格（31 个）
+
+| 技能目录名 | 文风锁定对象 | 风格关键词 |
+| --- | --- | --- |
+| `xin-aiqianshuidewuzei-style-guimizhizhu` | 《诡秘之主》（爱潜水的乌贼） | 克苏鲁 · 冷峻悬疑 · 黑色幽默 |
+| `xin-apu-style-shanhaijingmima` | 《山海经密码》（阿菩） | 史诗苍凉 · 上古神话探秘 · 权谋博弈 |
+| `xin-chunjiedexiaolong-style-laoshiren` | 《捞尸人》（纯洁滴小龙） | 东北乡村年代传奇 · 灵异 |
+| `xin-ergen-style-qiumo` | 《求魔》（耳根） | 苍凉孤执 · 命运抗争 · 画面感 |
+| `xin-ergen-style-xianni` | 《仙逆》（耳根） | 逆天改命 · 坚韧沧桑 · 杀伐决断 |
+| `xin-fenghuoxizhuhou-style-jianlai` | 《剑来》（烽火戏诸侯） | 市井烟火 · 冷幽默 · 哲理 |
+| `xin-fenghuoxizhuhou-style-xuezhonghandaoxing` | 《雪中悍刀行》（烽火戏诸侯） | 市井江湖气 · 文人雅致 · 从容闲笔 |
+| `xin-fennudexiangjiao-style-nitianwudi` | 《逆天武帝》（愤怒的香蕉） | 废柴逆袭 · 亲情温情 · 隐忍复仇 |
+| `xin-fennudexiangjiao-style-yinsha` | 《隐杀》（愤怒的香蕉） | 杀手重生 · 轻松YY · 冷面笑匠反差 |
+| `xin-fennudexiangjiao-style-yiyuqiushengriji` | 《异域求生日记》（愤怒的香蕉） | 温柔哀伤 · 哲学沉思 · 抒情 |
+| `xin-jiangnan-style-xiedu` | 《亵渎》（烟雨江南） | 暗黑欲望 · 权谋 · 反英雄 |
+| `xin-jiangnan-style-yongyejunzhu` | 《永夜君王》（烟雨江南） | 暗黑残酷 · 绝境逆袭 · 末世科幻 |
+| `xin-jiyueren-style-xuanjianxianzu` | 《玄鉴仙族》 | 家族修仙 · 代际传承 · 冷静克制 |
+| `xin-maibaoxiaolangjun-style-dafengdagengren` | 《大奉打更人》（卖报小郎君） | 探案 · 黑色幽默 · 现代社畜穿越 |
+| `xin-maoni-style-dadaochaotian` | 《大道朝天》（猫腻） | 剑修 · 智性视角 · 疏离诙谐 |
+| `xin-maoni-style-jiangye` | 《将夜》（猫腻） | 长句铺陈 · 文气克制 · 章末留白 |
+| `xin-maoni-style-qingyunian` | 《庆余年》（猫腻） | 穿越权谋 · 庙堂江湖 · 范闲 |
+| `xin-qingheyikan-style-chixinxuntian` | 《赤心巡天》（情何以堪） | 沉郁悲悯 · 侠气 · 苍凉 |
+| `xin-rushuiyi-style-woqiangshen` | 《我枪神》（如水意） | 都市枪战 · 硬核写实 · 战友群像 |
+| `xin-wangyu-style-fanrenxiuxianzhuan` | 《凡人修仙传》（忘语） | 冷静克制 · 写实 · 低对话高内心 |
+| `xin-wenchaogong-style-gouzailiangjiexiuxian` | 《苟在两界修仙》（文抄公） | 苟道流 · 两界穿越 · 理性克制 |
+| `xin-xiaoding-style-zhuxian` | 《诛仙》（萧鼎） | 古典仙侠 · 半文半白 · 张小凡 |
+| `xin-xionglanggou-style-meiqianxiushenmexian` | 《没钱修什么仙》（熊狼狗） | 科学修仙 · 都市无厘头 |
+| `xin-yanleisheng-style-tianxingjian` | 《天行健》（燕垒生） | 史诗战争 · 冷静克制 · 军旅厚重 |
+| `xin-yuantong-style-limingzhijian` | 《黎明之剑》（远瞳） | 基建种田 · 理工男吐槽 · 文明苍凉 |
+| `xin-yuantong-style-yichangshengwu` | 《异常生物见闻录》（远瞳） | 轻松搞笑 · 吐槽 · 都市科幻 |
+| `xin-yutingjun-style-huangtiancangtianyisi` | 《我名黄天苍天已死什么鬼》（玉庭君） | 历史穿越 · 沙雕玩梗 · 非系统修仙 |
+| `xin-zhangxiaohua-style-shishangdiyihunluan` | 《史上第一混乱》（张小花） | 反穿越 · 恶搞 · 历史人物现代 |
+| `xin-zhangxiaohua-style-wojiushiyaoguai` | 《我就是妖怪》（张小花） | 妖怪日常 · 贱萌吐槽 · 市井喜剧 |
+| `xin-zhouzi-style-qingshan` | 《青山》（会说话的肘子） | 灵气复苏 · 冷峻克制 · 孤独底色 |
+| `xin-zhouzi-style-yedemingmingshu` | 《夜的命名术》（会说话的肘子） | 梦境穿越 · 平行世界 · 少年悲悯 |
+
+<!-- END:SKILL-INDEX -->
 
 ---
 
@@ -222,9 +228,13 @@ npx skills add oscar-wang-xin/xin-skills -g -y
 
 支持自定义技能/插件导入的 AI 工具（如豆包、WorkBuddy 等）普遍采用 **zip 上传**方式：直接上传对应技能的 `.zip` 文件，工具会自动解压并识别 `SKILL.md` 完成技能安装，无需手动放置目录。
 
+技能包在 [Releases](https://github.com/oscar-wang-xin/xin-skills/releases) 页面下载，每个技能一个 `.zip`，文件名与技能目录名一致。
+
 ### 方式四：zip 直接分发
 
-仓库根目录保留了每个技能的 `.zip` 打包，单文件下载后解压即得完整技能目录，适合手动分享与离线安装。
+从 [Releases](https://github.com/oscar-wang-xin/xin-skills/releases) 下载单个 `.zip`，解压即得完整技能目录，适合手动分享与离线安装。
+
+> 为什么仓库里没有 zip：122 个 zip 与 122 个目录内容完全相同，会让仓库体积翻倍、根目录条目翻倍，且每改一次技能正文就多一份二进制历史。所以 zip 只在发布时作为 Release 附件提供。
 
 ---
 
@@ -963,7 +973,7 @@ npx skills add oscar-wang-xin/xin-skills -g -y
 
 女作者言情风格技能基于各书正文样本萃取，覆盖晋江／番茄系女性向作品的差异化笔法：碎行短段、心声直录、标签密挂、现代梗古今互文、多声部弹幕体、以及宅斗权谋与甜宠轻喜剧的两种情绪底盘。
 
-### 94. 《十二年，故人戏》（墨宝非宝） · `xin-lady-style-12years_gurenxi`
+### 94. 《十二年，故人戏》（墨宝非宝） · `xin-lady-style-12years-gurenxi`
 
 - **风格画像**：民国言情。段子极碎（中位 20 汉字，一半段落不超过 20 字）、逗句比 1.91:1、对白嵌入叙述且对话标签几近消亡。
 - **核心特征**：省略号作节奏乐器（151 处，独立成段做场景淡出）、日期独立成段转场、章题用五言诗句式、双视角均衡（她 1120 : 他 1123）；民国质感靠名词不靠形容，附作者脚注体例。
@@ -1119,19 +1129,19 @@ npx skills add oscar-wang-xin/xin-skills -g -y
 - **核心特征**：四字格骈句开篇、地点锚定换场、台词占比 28% 叙事主导、`道：`系古典标签、市井地理实名制。
 - **情绪基调**：雅正庄重，西域丝路风物与佛子清冷感交织。
 
-### 120. 《长安小饭馆》（樱桃糕） · `xin-lady-style-长安小饭馆`
+### 120. 《长安小饭馆》（樱桃糕） · `xin-lady-style-changanxiaofanguan`
 
 - **风格画像**：晋江古风美食日常轻喜剧。穿越大女主摆摊创业线为主、感情线慢热为辅。
 - **核心特征**：美食工笔分镜＋现代梗古今互文（最强签名）＋微考据引注＋冷幽默留白；生意经正剧化、破折号双用法、作者有话要说（晋江原生结构）。
 - **情绪基调**：市井烟火里的松弛喜剧，章末钩子三型轮换。
 
-### 121. 《折腰》（蓬莱客） · `xin-lady-style-折腰`
+### 121. 《折腰》（蓬莱客） · `xin-lady-style-zheyao`
 
 - **风格画像**：晋江古言、乱世权谋＋先婚后爱双主线，重生替嫁女主×乱世枭雄。战争与朝堂戏占大半篇幅且写得正经，感情线在权谋缝隙里生长。
 - **核心特征**：中长段制（中位 31 字）、含引号段仅 26.6% 的叙述驱动型；`道：`1618 处绝对统治（最纯正「道体」）；省略号 1,135 处（独立成段 514 处）作场景／时间过渡符，是最大结构签名；破折号仅用于呼喊拖音。
 - **情绪基调**：礼仪考据工笔＋短段心理拉扯，乱世争霸的沉重底色。
 
-### 122. 《珍馐记》（咩咩桑） · `xin-lady-style-珍馐记`
+### 122. 《珍馐记》（咩咩桑） · `xin-lady-style-zhenxiuji`
 
 - **风格画像**：番茄精品古言，美食日常＋预知梦悬疑双主线，前世美食编辑魂穿＋梦境预知双重设定。
 - **核心特征**：章标即菜单、美食工序工笔、物尽其用思维、生意经话术；群像流言喜剧、叫卖拟声开场；`道`体标签纯正古风。
@@ -1170,3 +1180,4 @@ xin-fanqie-style-baiyujing/
 - 本仓库中的技能**仅包含文风规范**，不包含任何参考小说的正文内容；`references/style_examples.md` 为风格特征提炼，非原文摘录。
 - 所有参考作品的版权归原作者/版权方所有。本技能用于写作风格学习与创作辅助，**请勿**将其用于抄袭、洗稿、侵权再创作等用途。
 - 每个 `SKILL.md` 均内置硬性规则：只模仿文笔、叙事节奏与语感，严禁抄袭、复述样本剧情。
+- 本仓库的代码与技能文本以 [MIT](LICENSE) 许可发布；上述使用建议是作者的态度，不构成额外的许可限制。
