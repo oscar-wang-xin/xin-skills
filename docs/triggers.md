@@ -126,13 +126,14 @@
 | 《珍馐记》 · `xin-lady-style-zhenxiuji` | 珍馐记文风、珍馐记风格 |
 | 《折腰》 · `xin-lady-style-zheyao` | 折腰文风、折腰风格 |
 
-## 🎭 王朔风格（16 个）
+## 🎭 王朔风格（17 个）
 
 | 技能 | 触发词 |
 | --- | --- |
 | 《动物凶猛》 · `xin-wangshuo-style-dongwuxiongmeng` | 动物凶猛文风、王朔文风 |
 | 《过把瘾就死》 · `xin-wangshuo-style-guobayinjiu` | 过把瘾就死文风、王朔文风 |
 | 《好猫八不》 · `xin-wangshuo-style-haomaobabu` | 好猫八不文风、王朔文风 |
+| 《看上去很美》 · `xin-wangshuo-style-kanshangquhenmei` | 看上去很美文风、王朔文风 |
 | 《空中小姐》 · `xin-wangshuo-style-kongzhongxiaojie` | 空中小姐文风、王朔文风 |
 | 《美人赠我蒙汗药》 · `xin-wangshuo-style-meirenzengwomenghanyao` | 美人赠我蒙汗药文风、王朔对话文风 |
 | 《你不是一个俗人》 · `xin-wangshuo-style-nibushiyigesuren` | 你不是一个俗人文风、王朔文风 |
