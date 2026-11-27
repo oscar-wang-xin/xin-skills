@@ -4,7 +4,7 @@ description: "《武林天骄》文风锁定技能（梁羽生）。触发词：
 keywords: "晚期代表作 · 宋金背景 · 檀羽冲"
 ---
 
-# 武林天骄 · 梁羽生晚期文风锁定（xin-liangyusheng-style-wulintianjiao）
+# 武林天骄 · 梁羽生晚期文风锁定（xin-liangyusheng-style-武林天骄）
 
 ## 样本与来源
 

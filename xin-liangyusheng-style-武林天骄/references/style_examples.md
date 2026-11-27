@@ -1,4 +1,4 @@
-# 武林天骄 · 风格引文参考（xin-liangyusheng-style-wulintianjiao）
+# 武林天骄 · 风格引文参考（xin-liangyusheng-style-武林天骄）
 
 > 全部引文按行号从 `wulintianjiao_sample.txt`（17 回全本，257,433 汉字）原样截取，未做任何改写。
 > 用途：仿写前对照朗读，校准句长、段长、对话密度与心理引语格式。共 18 组。
