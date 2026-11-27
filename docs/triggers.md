@@ -126,12 +126,13 @@
 | 《珍馐记》 · `xin-lady-style-zhenxiuji` | 珍馐记文风、珍馐记风格 |
 | 《折腰》 · `xin-lady-style-zheyao` | 折腰文风、折腰风格 |
 
-## 🎭 王朔风格（3 个）
+## 🎭 王朔风格（4 个）
 
 | 技能 | 触发词 |
 | --- | --- |
 | 《起初·纪年》 · `xin-wangshuo-style-qichu-jinian` | 起初纪年文风、王朔文风 |
 | 《起初·绝地天通》 · `xin-wangshuo-style-qichu-jueditiantong` | 起初绝地天通文风、王朔文风 |
+| 《起初·鱼甜》 · `xin-wangshuo-style-qichu-yutian` | 起初鱼甜文风、王朔文风 |
 | 《起初·竹书》 · `xin-wangshuo-style-qichu-zhushu` | 起初竹书文风、王朔文风 |
 
 ## 📚 网络文学名家风格（31 个）
