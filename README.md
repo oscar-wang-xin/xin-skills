@@ -251,7 +251,7 @@ npx skills add oscar-wang-xin/xin-skills -g -y
 
 支持自定义技能/插件导入的 AI 工具（如豆包、WorkBuddy 等）普遍采用 **zip 上传**方式：直接上传对应技能的 `.zip` 文件，工具会自动解压并识别 `SKILL.md` 完成技能安装，无需手动放置目录。
 
-技能包在 [Releases](https://github.com/oscar-wang-xin/xin-skills/releases) 页面下载，每个技能一个 `.zip`，文件名与技能目录名一致。
+技能包在 [Releases](https://github.com/oscar-wang-xin/xin-skills/releases) 页面下载，每个技能一个 `.zip`；附件名用 `SKILL.md` 的 ASCII `name`，zip **内顶层目录**是中文书名。
 
 ### 方式四：zip 直接分发
 
