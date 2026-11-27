@@ -2,6 +2,7 @@
 
 > 从各技能 `SKILL.md` 的 description 自动生成，勿手改。
 > 装好技能后一般不用查表——直接说「用《书名》文风写…」即可命中；本页用于手动指定或排查。
+> 手动指定 `--skill` 时用 `SKILL.md` 的 ASCII `name`（`npx skills add … --list` 可查）；下表左列是中文目录名。
 
 返回 [README](../README.md)
 
