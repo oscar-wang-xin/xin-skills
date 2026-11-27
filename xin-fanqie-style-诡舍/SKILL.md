@@ -1,7 +1,8 @@
 ---
-name: xin-fanqie-style-诡舍
+name: xin-fanqie-style-guishe
 description: "《诡舍》文风锁定技能。触发词：诡舍文风、诡舍风格、模仿诡舍写法。核心：悬疑无限流 · 微惊悚求生 · 规则谜题。"
 keywords: "悬疑无限流 · 微惊悚求生 · 规则谜题"
+display_name: 《诡舍》文风锁定
 agent_created: true
 ---
 

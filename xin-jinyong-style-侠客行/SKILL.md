@@ -1,7 +1,8 @@
 ---
-name: xin-jinyong-style-侠客行
+name: xin-jinyong-style-xiakexing
 description: "《侠客行》文风锁定技能（金庸）。触发词：侠客行文风、侠客行风格、金庸文风。核心：质朴敦厚 · 冷峻江湖 · 善意与凶险错位。"
 keywords: "质朴敦厚 · 冷峻江湖 · 善意与凶险错位"
+display_name: 《侠客行》文风锁定
 agent_created: true
 ---
 

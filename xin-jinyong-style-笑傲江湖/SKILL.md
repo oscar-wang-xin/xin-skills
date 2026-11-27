@@ -1,7 +1,8 @@
 ---
-name: xin-jinyong-style-笑傲江湖
+name: xin-jinyong-style-xiaoaojianghu
 description: "《笑傲江湖》文风锁定技能（金庸）。触发词：笑傲江湖文风、笑傲江湖风格、模仿笑傲江湖写法。核心：狂放不羁 · 权力倾轧 · 高喜剧浓度。"
 keywords: "狂放不羁 · 权力倾轧 · 高喜剧浓度"
+display_name: 《笑傲江湖》文风锁定
 agent_created: true
 ---
 

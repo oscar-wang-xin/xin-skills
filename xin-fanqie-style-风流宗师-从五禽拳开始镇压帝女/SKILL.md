@@ -1,7 +1,8 @@
 ---
-name: xin-fanqie-style-风流宗师-从五禽拳开始镇压帝女
+name: xin-fanqie-style-fengliuzongshi
 description: "《风流宗师，从五禽拳开始镇压帝女》文风锁定技能。触发词：风流宗师文风、风流宗师风格、模仿风流宗师写法。核心：苟道流 · 老头扮猪吃虎 · 杀伐果断。"
 keywords: "苟道流 · 老头扮猪吃虎 · 杀伐果断"
+display_name: 《风流宗师，从五禽拳开始镇压帝女》文风锁定
 agent_created: true
 ---
 

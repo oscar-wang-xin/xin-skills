@@ -1,7 +1,8 @@
 ---
-name: xin-liangyusheng-style-塞外奇侠传
+name: xin-liangyusheng-style-saiwaiqixiazhuan
 description: "《塞外奇侠传》文风锁定技能（梁羽生）。触发词：塞外奇侠传文风、塞外奇侠传风格、梁羽生文风。核心：天山前传 · 新派确立期。"
 keywords: "天山前传 · 新派确立期"
+display_name: 《塞外奇侠传》文风锁定
 agent_created: true
 read_when: 
 ---

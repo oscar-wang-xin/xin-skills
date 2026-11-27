@@ -1,7 +1,8 @@
 ---
-name: xin-yanleisheng-style-天行健
+name: xin-yanleisheng-style-tianxingjian
 description: "《天行健》文风锁定技能（燕垒生）。触发词：天行健文风、天行健风格、模仿天行健写法。核心：史诗战争 · 冷静克制 · 军旅厚重。"
 keywords: "史诗战争 · 冷静克制 · 军旅厚重"
+display_name: 《天行健》文风锁定
 agent_created: true
 ---
 

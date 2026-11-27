@@ -1,5 +1,5 @@
 ---
-name: xin-wangshuo-style-玩的就是心跳
+name: xin-wangshuo-style-wandezhuoshixintiao
 description: "《玩的就是心跳》文风锁定技能（王朔）。触发词：玩的就是心跳文风、王朔文风。核心：第一人称悬疑 · 记忆拼图 · 京味痞话。"
 keywords: "第一人称悬疑 · 记忆拼图 · 京味痞话 · 梦境现实 · 身份错认"
 display_name: 王朔《玩的就是心跳》文风锁定

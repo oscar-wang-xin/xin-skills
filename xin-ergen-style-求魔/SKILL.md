@@ -1,7 +1,8 @@
 ---
-name: xin-ergen-style-求魔
+name: xin-ergen-style-qiumo
 description: "《求魔》文风锁定技能（耳根）。触发词：求魔文风、求魔风格、模仿求魔写法。核心：苍凉孤执 · 命运抗争 · 画面感。"
 keywords: "苍凉孤执 · 命运抗争 · 画面感"
+display_name: 《求魔》文风锁定
 agent_created: true
 ---
 

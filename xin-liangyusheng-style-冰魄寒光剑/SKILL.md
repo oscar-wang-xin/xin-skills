@@ -1,7 +1,8 @@
 ---
-name: xin-liangyusheng-style-冰魄寒光剑
+name: xin-liangyusheng-style-bingpohanguangjian
 description: "《冰魄寒光剑》文风锁定技能（梁羽生）。触发词：冰魄寒光剑文风、冰魄寒光剑风格、模仿冰魄寒光剑写法。核心：浪漫武侠 · 异域冒险 · 深情克制。"
 keywords: "浪漫武侠 · 异域冒险 · 深情克制"
+display_name: 《冰魄寒光剑》文风锁定
 agent_created: true
 ---
 

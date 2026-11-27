@@ -1,7 +1,8 @@
 ---
-name: xin-lady-style-珍馐记
+name: xin-lady-style-zhenxiuji
 description: "《珍馐记》文风锁定技能（咩咩桑）。触发词：珍馐记文风、珍馐记风格。核心：美食经营 · 预知梦悬疑 · 群像喜剧。"
 keywords: "美食经营 · 预知梦悬疑 · 群像喜剧"
+display_name: 《珍馐记》文风锁定
 ---
 
 # 珍馐记（咩咩桑）文风锁定

@@ -1,7 +1,8 @@
 ---
-name: xin-huangyi-style-大剑师传奇
+name: xin-huangyi-style-dajianshi
 description: "《大剑师传奇》文风锁定技能（黄易）。触发词：大剑师传奇文风、大剑师文风、大剑师传奇风格。核心：第一人称玄幻 · 港台武侠 · 复仇热血。"
 keywords: "第一人称玄幻 · 港台武侠 · 复仇热血"
+display_name: 《大剑师传奇》文风锁定
 agent_created: true
 ---
 

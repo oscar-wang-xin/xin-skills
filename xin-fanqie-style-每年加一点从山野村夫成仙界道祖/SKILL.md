@@ -1,7 +1,8 @@
 ---
-name: xin-fanqie-style-每年加一点从山野村夫成仙界道祖
+name: xin-fanqie-style-gou
 description: "《每年加一点从山野村夫成仙界道祖》文风锁定技能。触发词：每年加一点文风、每年加一点风格、苟道流文风。核心：苟道流 · 长生苟王 · 延迟复仇。"
 keywords: "苟道流 · 长生苟王 · 延迟复仇"
+display_name: 《每年加一点从山野村夫成仙界道祖》文风锁定
 agent_created: true
 ---
 

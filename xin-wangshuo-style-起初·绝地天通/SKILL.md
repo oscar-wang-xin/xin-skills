@@ -1,5 +1,5 @@
 ---
-name: xin-wangshuo-style-起初·绝地天通
+name: xin-wangshuo-style-qichu-jueditiantong
 description: "《起初·绝地天通》文风锁定技能（王朔）。触发词：起初绝地天通文风、王朔文风。核心：涿鹿上古 · 伪文献 · 物质考据。"
 keywords: "涿鹿之战 · 伪文献 · 物质考据 · 京味口语 · 黑色幽默"
 display_name: 王朔《起初·绝地天通》文风锁定

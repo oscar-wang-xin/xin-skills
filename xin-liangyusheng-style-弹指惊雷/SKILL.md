@@ -1,5 +1,5 @@
 ---
-name: xin-liangyusheng-style-弹指惊雷
+name: xin-liangyusheng-style-tanzhijinglei
 description: "《弹指惊雷》文风锁定技能（梁羽生）。触发词：弹指惊雷文风、弹指惊雷风格。核心：身世悲情 · 儿女情长 · 武学传承。"
 keywords: "身世悲情 · 儿女情长 · 武学传承"
 display_name: 梁羽生《弹指惊雷》文风锁定

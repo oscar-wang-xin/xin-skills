@@ -1,7 +1,8 @@
 ---
-name: xin-xiaoding-style-诛仙
+name: xin-xiaoding-style-zhuxian
 description: "《诛仙》文风锁定技能（萧鼎）。触发词：诛仙、萧鼎、青云门。核心：古典仙侠 · 半文半白 · 张小凡。"
 keywords: "古典仙侠 · 半文半白 · 张小凡"
+display_name: 《诛仙》文风锁定
 agent_created: true
 ---
 

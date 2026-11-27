@@ -1,7 +1,8 @@
 ---
-name: xin-jinyong-style-雪山飞狐
+name: xin-jinyong-style-xueshanfeihu
 description: "《雪山飞狐》文风锁定技能（金庸）。触发词：雪山飞狐文风、雪山飞狐风格、金庸文风。核心：罗生门结构 · 嵌套叙事 · 克制悲怆。"
 keywords: "罗生门结构 · 嵌套叙事 · 克制悲怆"
+display_name: 《雪山飞狐》文风锁定
 agent_created: true
 ---
 

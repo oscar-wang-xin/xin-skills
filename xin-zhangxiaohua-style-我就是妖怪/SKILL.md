@@ -1,7 +1,8 @@
 ---
-name: xin-zhangxiaohua-style-我就是妖怪
+name: xin-zhangxiaohua-style-wojiushiyaoguai
 description: "《我就是妖怪》文风锁定技能（张小花）。触发词：我就是妖怪文风、模仿我就是妖怪写法、按张小花妖怪文风写作。核心：妖怪日常 · 贱萌吐槽 · 市井喜剧。"
 keywords: "妖怪日常 · 贱萌吐槽 · 市井喜剧"
+display_name: 《我就是妖怪》文风锁定
 agent_created: true
 ---
 

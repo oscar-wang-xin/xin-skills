@@ -1,7 +1,8 @@
 ---
-name: xin-maibaoxiaolangjun-style-大奉打更人
+name: xin-maibaoxiaolangjun-style-dafengdagengren
 description: "《大奉打更人》文风锁定技能（卖报小郎君）。触发词：大奉打更人文风、大奉打更人风格、模仿大奉打更人写法。核心：探案 · 黑色幽默 · 现代社畜穿越。"
 keywords: "探案 · 黑色幽默 · 现代社畜穿越"
+display_name: 《大奉打更人》文风锁定
 agent_created: true
 ---
 

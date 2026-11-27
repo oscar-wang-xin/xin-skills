@@ -1,7 +1,8 @@
 ---
-name: xin-liangyusheng-style-萍踪侠影录
+name: xin-liangyusheng-style-pingzongxiayinglu
 description: "《萍踪侠影录》文风锁定技能（梁羽生）。触发词：萍踪侠影录文风、萍踪侠影录风格、模仿萍踪侠影录写法。核心：旷达悲慨 · 名士气 · 家国大义。"
 keywords: "旷达悲慨 · 名士气 · 家国大义"
+display_name: 《萍踪侠影录》文风锁定
 agent_created: true
 ---
 

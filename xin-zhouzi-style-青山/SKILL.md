@@ -1,7 +1,8 @@
 ---
-name: xin-zhouzi-style-青山
+name: xin-zhouzi-style-qingshan
 description: "《青山》文风锁定技能（会说话的肘子）。触发词：青山文风、青山风格、模仿青山写法。核心：灵气复苏 · 冷峻克制 · 孤独底色。"
 keywords: "灵气复苏 · 冷峻克制 · 孤独底色"
+display_name: 《青山》文风锁定
 agent_created: true
 ---
 

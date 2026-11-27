@@ -1,5 +1,5 @@
 ---
-name: xin-wangshuo-style-动物凶猛
+name: xin-wangshuo-style-dongwuxiongmeng
 description: "《动物凶猛》文风锁定技能（王朔）。触发词：动物凶猛文风、王朔文风。核心：第一人称回忆 · 少年青春 · 不可靠叙事。"
 keywords: "第一人称回忆 · 少年青春 · 不可靠叙事 · 大院北京 · 长句思辨"
 display_name: 王朔《动物凶猛》文风锁定

@@ -1,7 +1,8 @@
 ---
-name: xin-fanqie-style-我在精神病院学斩神
+name: xin-fanqie-style-zhanshen
 description: "《我在精神病院学斩神》文风锁定技能。触发词：我在精神病院学斩神文风、斩神风格、模仿斩神写法。核心：温馨日常 · 悬疑暗线 · 信息差。"
 keywords: "温馨日常 · 悬疑暗线 · 信息差"
+display_name: 《我在精神病院学斩神》文风锁定
 agent_created: true
 ---
 

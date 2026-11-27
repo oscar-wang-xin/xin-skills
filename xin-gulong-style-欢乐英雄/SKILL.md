@@ -1,7 +1,8 @@
 ---
-name: xin-gulong-style-欢乐英雄
+name: xin-gulong-style-huanleyingxiong
 description: "《欢乐英雄》文风锁定技能（古龙）。触发词：欢乐英雄文风、欢乐英雄风格、古龙欢乐英雄写法。核心：轻松欢乐 · 底层温情 · 以弱制强。"
 keywords: "轻松欢乐 · 底层温情 · 以弱制强"
+display_name: 《欢乐英雄》文风锁定
 agent_created: true
 ---
 

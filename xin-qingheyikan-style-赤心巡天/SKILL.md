@@ -1,7 +1,8 @@
 ---
-name: xin-qingheyikan-style-赤心巡天
+name: xin-qingheyikan-style-chixinxuntian
 description: "《赤心巡天》文风锁定技能（情何以堪）。触发词：赤心巡天文风、赤心巡天风格、模仿赤心巡天写法。核心：沉郁悲悯 · 侠气 · 苍凉。"
 keywords: "沉郁悲悯 · 侠气 · 苍凉"
+display_name: 《赤心巡天》文风锁定
 agent_created: true
 ---
 

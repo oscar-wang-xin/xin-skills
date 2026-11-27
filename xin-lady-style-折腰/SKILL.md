@@ -1,7 +1,8 @@
 ---
-name: xin-lady-style-折腰
+name: xin-lady-style-zheyao
 description: "《折腰》文风锁定技能（蓬莱客）。触发词：折腰文风、折腰风格。核心：乱世权谋 · 先婚后爱 · 半文半白。"
 keywords: "乱世权谋 · 先婚后爱 · 半文半白"
+display_name: 《折腰》文风锁定
 ---
 
 # 折腰 · 文风锁定（蓬莱客）

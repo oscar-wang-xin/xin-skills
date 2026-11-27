@@ -1,7 +1,8 @@
 ---
-name: xin-lady-style-恰逢雨连天
+name: xin-lady-style-qiafengyuliantian
 description: "《恰逢雨连天》文风锁定技能（沉筱之）。触发词：恰逢雨连天文风、沉筱之文风、模仿恰逢雨连天写法。核心：权谋言情 · 朝堂书卷语 · 对白收束。"
 keywords: "权谋言情 · 朝堂书卷语 · 对白收束"
+display_name: 《恰逢雨连天》文风锁定
 agent_created: true
 ---
 

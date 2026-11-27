@@ -1,7 +1,8 @@
 ---
-name: xin-yuantong-style-黎明之剑
+name: xin-yuantong-style-limingzhijian
 description: "《黎明之剑》文风锁定技能（远瞳）。触发词：黎明之剑文风、黎明之剑风格、模仿黎明之剑写法。核心：基建种田 · 理工男吐槽 · 文明苍凉。"
 keywords: "基建种田 · 理工男吐槽 · 文明苍凉"
+display_name: 《黎明之剑》文风锁定
 agent_created: true
 ---
 

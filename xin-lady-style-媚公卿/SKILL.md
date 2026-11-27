@@ -1,7 +1,8 @@
 ---
-name: xin-lady-style-媚公卿
+name: xin-lady-style-meigongqing
 description: "《媚公卿》文风锁定技能（林家成）。触发词：媚公卿文风、媚公卿风格。核心：魏晋门阀 · 重生发家 · 半角冒号直引。"
 keywords: "魏晋门阀 · 重生发家 · 半角冒号直引"
+display_name: 《媚公卿》文风锁定
 ---
 
 # 《媚公卿》文风锁定（林家成）

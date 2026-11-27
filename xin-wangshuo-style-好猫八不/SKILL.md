@@ -1,5 +1,5 @@
 ---
-name: xin-wangshuo-style-好猫八不
+name: xin-wangshuo-style-haomaobabu
 description: "《好猫八不》文风锁定技能（王朔）。触发词：好猫八不文风、王朔文风。核心：猫叙事 · 京味聊天体 · 克制哀悼。"
 keywords: "猫叙事 · 京味聊天体 · 第三人称丙 · 事语 · 克制哀悼"
 display_name: 王朔《好猫八不》文风锁定

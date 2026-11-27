@@ -1,7 +1,8 @@
 ---
-name: xin-fanqie-style-地府叫我小先生
+name: xin-fanqie-style-difujiaowoxiaoxiansheng
 description: "《地府叫我小先生》文风锁定技能。触发词：地府叫我小先生文风、地府叫我小先生风格、模仿地府叫我小先生写法。核心：悬疑灵异 · 北方乡土语言 · 民间传说考据。"
 keywords: "悬疑灵异 · 北方乡土语言 · 民间传说考据"
+display_name: 《地府叫我小先生》文风锁定
 agent_created: true
 ---
 

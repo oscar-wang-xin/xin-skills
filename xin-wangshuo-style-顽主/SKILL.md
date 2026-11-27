@@ -1,5 +1,5 @@
 ---
-name: xin-wangshuo-style-顽主
+name: xin-wangshuo-style-wanzhu
 description: "《顽主》文风锁定技能（王朔）。触发词：顽主文风、王朔文风。核心：三T公司 · 对话喜剧 · 1980年代讽刺。"
 keywords: "三T公司 · 对话喜剧 · 1980年代讽刺 · 京味群像 · 冷面荒诞"
 display_name: 王朔《顽主》文风锁定

@@ -1,7 +1,8 @@
 ---
-name: xin-huangyi-style-寻秦记
+name: xin-huangyi-style-xunqinji
 description: "《寻秦记》文风锁定技能（黄易）。触发词：寻秦记文风、寻秦记风格、黄易文风。核心：穿越权谋 · 雄性爽文 · 战国香艳。"
 keywords: "穿越权谋 · 雄性爽文 · 战国香艳"
+display_name: 《寻秦记》文风锁定
 agent_created: true
 ---
 

@@ -1,7 +1,8 @@
 ---
-name: xin-aiqianshuidewuzei-style-诡秘之主
+name: xin-aiqianshuidewuzei-style-guimizhizhu
 description: "《诡秘之主》文风锁定技能（爱潜水的乌贼）。触发词：诡秘之主文风、诡秘之主风格、模仿诡秘之主写法。核心：克苏鲁 · 冷峻悬疑 · 黑色幽默。"
 keywords: "克苏鲁 · 冷峻悬疑 · 黑色幽默"
+display_name: 《诡秘之主》文风锁定
 agent_created: true
 ---
 

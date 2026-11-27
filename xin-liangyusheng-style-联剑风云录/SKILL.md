@@ -1,7 +1,8 @@
 ---
-name: xin-liangyusheng-style-联剑风云录
+name: xin-liangyusheng-style-lianjianfengyunlu
 description: "《联剑风云录》文风锁定技能（梁羽生）。触发词：联剑风云录文风、梁羽生文风、联剑风云录风格。核心：萍踪系列 · 回目形制 · 对话密度。"
 keywords: "萍踪系列 · 回目形制 · 对话密度"
+display_name: 《联剑风云录》文风锁定
 ---
 
 # 《联剑风云录》文风锁定技能

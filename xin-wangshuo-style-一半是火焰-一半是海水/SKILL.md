@@ -1,5 +1,5 @@
 ---
-name: xin-wangshuo-style-一半是火焰-一半是海水
+name: xin-wangshuo-style-yibanshihuoyan-yibanshihaishui
 description: "《一半是火焰 一半是海水》文风锁定技能（王朔）。触发词：一半是火焰一半是海水文风、王朔文风。核心：第一人称忏悔 · 黑色爱情 · 京味写实。"
 keywords: "第一人称忏悔 · 黑色爱情 · 京味写实 · 上下篇 · 冷峻抒情"
 display_name: 王朔《一半是火焰 一半是海水》文风锁定

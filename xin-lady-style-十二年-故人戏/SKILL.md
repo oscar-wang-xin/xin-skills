@@ -1,7 +1,8 @@
 ---
-name: xin-lady-style-十二年-故人戏
+name: xin-lady-style-12years-gurenxi
 description: "《十二年，故人戏》文风锁定技能（墨宝非宝）。触发词：故人戏文风、十二年故人戏文风、墨宝非宝文风。核心：民国言情 · 短段碎行 · 对白嵌入叙述。"
 keywords: "民国言情 · 短段碎行 · 对白嵌入叙述"
+display_name: 《十二年，故人戏》文风锁定
 agent_created: true
 ---
 

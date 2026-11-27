@@ -1,7 +1,8 @@
 ---
-name: xin-jiyueren-style-玄鉴仙族
+name: xin-jiyueren-style-xuanjianxianzu
 description: "《玄鉴仙族》文风锁定技能。触发词：玄鉴仙族文风、玄鉴仙族风格、模仿玄鉴仙族写法。核心：家族修仙 · 代际传承 · 冷静克制。"
 keywords: "家族修仙 · 代际传承 · 冷静克制"
+display_name: 《玄鉴仙族》文风锁定
 agent_created: true
 ---
 

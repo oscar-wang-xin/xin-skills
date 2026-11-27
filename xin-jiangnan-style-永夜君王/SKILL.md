@@ -1,7 +1,8 @@
 ---
-name: xin-jiangnan-style-永夜君王
+name: xin-jiangnan-style-yongyejunzhu
 description: "《永夜君王》文风锁定技能（烟雨江南）。触发词：永夜君王文风、永夜君王风格、模仿永夜君王写法。核心：暗黑残酷 · 绝境逆袭 · 末世科幻。"
 keywords: "暗黑残酷 · 绝境逆袭 · 末世科幻"
+display_name: 《永夜君王》文风锁定
 agent_created: true
 ---
 

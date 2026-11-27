@@ -1,7 +1,8 @@
 ---
-name: xin-lady-style-月明千里
+name: xin-lady-style-yuemingqianli
 description: "《月明千里》文风锁定技能（罗青梅）。触发词：月明千里文风、月明千里风格。核心：和亲穿书 · 文人雅言 · 西域丝路。"
 keywords: "和亲穿书 · 文人雅言 · 西域丝路"
+display_name: 《月明千里》文风锁定
 ---
 # 《月明千里》文风指纹（罗青梅）
 

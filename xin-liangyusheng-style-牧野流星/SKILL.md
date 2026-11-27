@@ -1,7 +1,8 @@
 ---
-name: xin-liangyusheng-style-牧野流星
+name: xin-liangyusheng-style-muyeliuxing
 description: "《牧野流星》文风锁定技能（梁羽生）。触发词：牧野流星文风、牧野流星风格、梁羽生文风。核心：天山系列 · 侠义为骨 · 内敛。"
 keywords: "天山系列 · 侠义为骨 · 内敛"
+display_name: 《牧野流星》文风锁定
 agent_created: true
 ---
 

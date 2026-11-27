@@ -1,7 +1,8 @@
 ---
-name: xin-huangyi-style-星际浪子
+name: xin-huangyi-style-xingjilangzi
 description: "《星际浪子》文风锁定技能（黄易）。触发词：星际浪子文风、星际浪子风格、模仿黄易写法。核心：太空歌剧 · 黄易科幻 · 人性探索。"
 keywords: "太空歌剧 · 黄易科幻 · 人性探索"
+display_name: 《星际浪子》文风锁定
 agent_created: true
 ---
 

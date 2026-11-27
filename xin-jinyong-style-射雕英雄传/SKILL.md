@@ -1,7 +1,8 @@
 ---
-name: xin-jinyong-style-射雕英雄传
+name: xin-jinyong-style-shediaoyingxiongzhuan
 description: "《射雕英雄传》文风锁定技能（金庸）。触发词：射雕英雄传文风、射雕文风、金庸文风。核心：新武侠 · 家国恩义 · 少年成长。"
 keywords: "新武侠 · 家国恩义 · 少年成长"
+display_name: 《射雕英雄传》文风锁定
 agent_created: true
 ---
 

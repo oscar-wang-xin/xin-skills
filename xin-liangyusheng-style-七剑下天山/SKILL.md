@@ -1,5 +1,5 @@
 ---
-name: xin-liangyusheng-style-七剑下天山
+name: xin-liangyusheng-style-qijianxiatianshan
 description: "《七剑下天山》文风锁定技能（梁羽生）。触发词：七剑下天山文风、七剑下天山风格。核心：反清复明 · 多线群侠 · 诗词入文。"
 keywords: "反清复明 · 多线群侠 · 诗词入文"
 display_name: 梁羽生《七剑下天山》文风锁定

@@ -1,7 +1,8 @@
 ---
-name: xin-fanqie-style-诸神愚戏
+name: xin-fanqie-style-zhushenyuxi
 description: "《诸神愚戏》文风锁定技能。触发词：诸神愚戏文风、诸神愚戏风格、模仿诸神愚戏写法。核心：克系黑色幽默 · 神明末世 · 荒诞吐槽。"
 keywords: "克系黑色幽默 · 神明末世 · 荒诞吐槽"
+display_name: 《诸神愚戏》文风锁定
 agent_created: true
 ---
 

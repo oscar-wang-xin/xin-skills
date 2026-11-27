@@ -1,7 +1,8 @@
 ---
-name: xin-lady-style-白色橄榄树
+name: xin-lady-style-baiseganlanshu
 description: "《白色橄榄树》文风锁定技能（玖月晞）。触发词：白色橄榄树文风、玖月晞文风、模仿白色橄榄树写法。核心：现代军旅 · 战地言情 · 克制留白。"
 keywords: "现代军旅 · 战地言情 · 克制留白"
+display_name: 《白色橄榄树》文风锁定
 agent_created: true
 ---
 

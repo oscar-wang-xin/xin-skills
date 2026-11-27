@@ -1,7 +1,8 @@
 ---
-name: xin-lady-style-娇娘医经
+name: xin-lady-style-jiaoniangyijing
 description: "《娇娘医经》文风锁定技能（希行）。触发词：娇娘医经文风、娇娘医经风格。核心：古言种田 · 医术流 · 标签密挂。"
 keywords: "古言种田 · 医术流 · 标签密挂"
+display_name: 《娇娘医经》文风锁定
 ---
 
 # 《娇娘医经》文风锁定（希行·医术流种田腔）

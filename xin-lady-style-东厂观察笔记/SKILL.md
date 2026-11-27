@@ -1,7 +1,8 @@
 ---
-name: xin-lady-style-东厂观察笔记
+name: xin-lady-style-dongchangguanchabiji
 description: "《东厂观察笔记》文风锁定技能（她与灯）。触发词：东厂观察笔记文风、东厂观察笔记风格、她与灯文风。核心：明朝穿越 · 短段节奏 · 现代学术吐槽。"
 keywords: "明朝穿越 · 短段节奏 · 现代学术吐槽"
+display_name: 《东厂观察笔记》文风锁定
 agent_created: true
 ---
 

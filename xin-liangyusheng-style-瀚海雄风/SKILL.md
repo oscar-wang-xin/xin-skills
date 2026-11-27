@@ -1,7 +1,8 @@
 ---
-name: xin-liangyusheng-style-瀚海雄风
+name: xin-liangyusheng-style-hanhaixiongfeng
 description: "《瀚海雄风》文风锁定技能（梁羽生）。触发词：瀚海雄风文风、瀚海雄风风格、模仿瀚海雄风写法。核心：苍凉悲壮 · 家国流离 · 大漠。"
 keywords: "苍凉悲壮 · 家国流离 · 大漠"
+display_name: 《瀚海雄风》文风锁定
 agent_created: true
 ---
 

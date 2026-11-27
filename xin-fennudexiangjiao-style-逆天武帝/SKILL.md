@@ -1,7 +1,8 @@
 ---
-name: xin-fennudexiangjiao-style-逆天武帝
+name: xin-fennudexiangjiao-style-nitianwudi
 description: "《逆天武帝》文风锁定技能（愤怒的香蕉）。触发词：逆天武帝文风、逆天武帝风格、模仿逆天武帝写法。核心：废柴逆袭 · 亲情温情 · 隐忍复仇。"
 keywords: "废柴逆袭 · 亲情温情 · 隐忍复仇"
+display_name: 《逆天武帝》文风锁定
 agent_created: true
 ---
 

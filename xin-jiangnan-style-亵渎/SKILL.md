@@ -1,7 +1,8 @@
 ---
-name: xin-jiangnan-style-亵渎
+name: xin-jiangnan-style-xiedu
 description: "《亵渎》文风锁定技能（烟雨江南）。触发词：亵渎文风、亵渎风格、模仿亵渎写法。核心：暗黑欲望 · 权谋 · 反英雄。"
 keywords: "暗黑欲望 · 权谋 · 反英雄"
+display_name: 《亵渎》文风锁定
 agent_created: true
 ---
 

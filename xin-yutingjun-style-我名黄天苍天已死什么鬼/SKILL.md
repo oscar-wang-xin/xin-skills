@@ -1,5 +1,5 @@
 ---
-name: xin-yutingjun-style-我名黄天苍天已死什么鬼
+name: xin-yutingjun-style-huangtiancangtianyisi
 description: "《我名黄天苍天已死什么鬼》文风锁定技能（玉庭君）。触发词：我名黄天苍天已死什么鬼文风、我名黄天苍天已死什么鬼风格。核心：历史穿越 · 沙雕玩梗 · 非系统修仙。"
 keywords: "历史穿越 · 沙雕玩梗 · 非系统修仙"
 display_name: 玉庭君《我名黄天苍天已死什么鬼》文风锁定

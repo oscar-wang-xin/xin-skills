@@ -1,7 +1,8 @@
 ---
-name: xin-gulong-style-七种武器之拳头
+name: xin-gulong-style-7wuqi-quantou
 description: "《七种武器之拳头》文风锁定技能（古龙）。触发词：古龙文风、七种武器文风、拳头文风。核心：热血浪子 · 黑色幽默 · 江湖残酷。"
 keywords: "热血浪子 · 黑色幽默 · 江湖残酷"
+display_name: 《七种武器之拳头》文风锁定
 agent_created: true
 ---
 

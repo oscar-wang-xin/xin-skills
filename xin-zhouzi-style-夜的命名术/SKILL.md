@@ -1,7 +1,8 @@
 ---
-name: xin-zhouzi-style-夜的命名术
+name: xin-zhouzi-style-yedemingmingshu
 description: "《夜的命名术》文风锁定技能（会说话的肘子）。触发词：夜的命名术文风、夜的命名术风格、模仿夜的命名术写法。核心：梦境穿越 · 平行世界 · 少年悲悯。"
 keywords: "梦境穿越 · 平行世界 · 少年悲悯"
+display_name: 《夜的命名术》文风锁定
 agent_created: true
 ---
 

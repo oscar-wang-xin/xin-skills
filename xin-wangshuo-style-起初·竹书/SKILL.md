@@ -1,5 +1,5 @@
 ---
-name: xin-wangshuo-style-起初·竹书
+name: xin-wangshuo-style-qichu-zhushu
 description: "《起初·竹书》文风锁定技能（王朔）。触发词：起初竹书文风、王朔文风。核心：上古编年 · 伪考据 · 神话互文。"
 keywords: "上古编年 · 伪考据 · 京味口语 · 全球神话互文 · 苍凉幽默"
 display_name: 王朔《起初·竹书》文风锁定

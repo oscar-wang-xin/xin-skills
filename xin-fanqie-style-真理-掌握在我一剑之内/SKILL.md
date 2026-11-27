@@ -1,7 +1,8 @@
 ---
-name: xin-fanqie-style-真理-掌握在我一剑之内
+name: xin-fanqie-style-zhenliyijian
 description: "《真理，掌握在我一剑之内》文风锁定技能。触发词：真理掌握在我一剑之内文风、真理一剑文风、zhenliyijian风格。核心：冷峻黑暗复仇 · 锋利讽刺。"
 keywords: "冷峻黑暗复仇 · 锋利讽刺 · 热血燃"
+display_name: 《真理，掌握在我一剑之内》文风锁定
 agent_created: true
 ---
 

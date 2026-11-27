@@ -1,5 +1,5 @@
 ---
-name: xin-wangshuo-style-空中小姐
+name: xin-wangshuo-style-kongzhongxiaojie
 description: "《空中小姐》文风锁定技能（王朔）。触发词：空中小姐文风、王朔文风。核心：第一人称初恋 · 海空抒情 · 早期王朔。"
 keywords: "第一人称初恋 · 海空抒情 · 早期王朔 · 年龄差 · 克制伤感"
 display_name: 王朔《空中小姐》文风锁定

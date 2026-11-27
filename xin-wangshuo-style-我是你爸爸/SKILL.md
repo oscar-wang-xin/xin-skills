@@ -1,5 +1,5 @@
 ---
-name: xin-wangshuo-style-我是你爸爸
+name: xin-wangshuo-style-woshinibaba
 description: "《我是你爸爸》文风锁定技能（王朔）。触发词：我是你爸爸文风、王朔文风。核心：父子日常 · 京味写实 · 尴尬喜剧。"
 keywords: "父子日常 · 京味写实 · 尴尬喜剧 · 心理暗写 · 短段对白"
 display_name: 王朔《我是你爸爸》文风锁定

@@ -1,7 +1,8 @@
 ---
-name: xin-fanqie-style-危-刚飞升我就杀了天帝
+name: xin-fanqie-style-feishengshaletiandi
 description: "《危！刚飞升我就杀了天帝？》文风锁定技能。触发词：危刚飞升我就杀了天帝文风、飞升杀天帝风格、模仿飞升杀天帝写法。核心：沙雕爽文 · 仙侠狼人杀 · 悬疑推理。"
 keywords: "沙雕爽文 · 仙侠狼人杀 · 悬疑推理"
+display_name: 《危！刚飞升我就杀了天帝？》文风锁定
 agent_created: true
 ---
 

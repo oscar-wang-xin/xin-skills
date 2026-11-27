@@ -1,7 +1,8 @@
 ---
-name: xin-huangyi-style-时空浪族
+name: xin-huangyi-style-shikonglangzu
 description: "《时空浪族》文风锁定技能（黄易）。触发词：时空浪族文风、时空浪族风格、黄易文风。核心：都市异能 · 预知梦境 · 港式商战。"
 keywords: "都市异能 · 预知梦境 · 港式商战"
+display_name: 《时空浪族》文风锁定
 agent_created: true
 ---
 

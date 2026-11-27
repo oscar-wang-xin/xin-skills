@@ -1,7 +1,8 @@
 ---
-name: xin-huangyi-style-大唐双龙传
+name: xin-huangyi-style-datangshuanglongzhuan
 description: "《大唐双龙传》文风锁定技能（黄易）。触发词：大唐双龙传文风、大唐双龙传风格、模仿大唐双龙传写法。核心：隋唐武侠 · 历史权谋 · 双男主逆袭。"
 keywords: "隋唐武侠 · 历史权谋 · 双男主逆袭"
+display_name: 《大唐双龙传》文风锁定
 agent_created: true
 ---
 

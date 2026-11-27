@@ -1,7 +1,8 @@
 ---
-name: xin-maoni-style-大道朝天
+name: xin-maoni-style-dadaochaotian
 description: "《大道朝天》文风锁定技能（猫腻）。触发词：大道朝天文风、大道朝天风格、模仿大道朝天写法。核心：剑修 · 智性视角 · 疏离诙谐。"
 keywords: "剑修 · 智性视角 · 疏离诙谐"
+display_name: 《大道朝天》文风锁定
 agent_created: true
 ---
 

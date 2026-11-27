@@ -1,5 +1,5 @@
 ---
-name: xin-wangshuo-style-你不是一个俗人
+name: xin-wangshuo-style-nibushiyigesuren
 description: "《你不是一个俗人》文风锁定技能（王朔）。触发词：你不是一个俗人文风、王朔文风。核心：1990 年代捧人喜剧 · 对话驱动。"
 keywords: "1990年代 · 捧人喜剧 · 对话驱动 · 京味讽刺 · 短段落"
 display_name: 王朔《你不是一个俗人》文风锁定

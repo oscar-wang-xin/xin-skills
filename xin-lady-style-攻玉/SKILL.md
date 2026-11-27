@@ -1,7 +1,8 @@
 ---
-name: xin-lady-style-攻玉
+name: xin-lady-style-gongyu
 description: "《攻玉》文风锁定技能（萧寒城）。触发词：攻玉文风、萧寒城文风、模仿攻玉写法。核心：原耽朝堂 · 双男主互怼 · 高台词占比。"
 keywords: "原耽朝堂 · 双男主互怼 · 高台词占比"
+display_name: 《攻玉》文风锁定
 agent_created: true
 ---
 

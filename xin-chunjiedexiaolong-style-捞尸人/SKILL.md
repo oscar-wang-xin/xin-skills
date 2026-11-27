@@ -1,7 +1,8 @@
 ---
-name: xin-chunjiedexiaolong-style-捞尸人
+name: xin-chunjiedexiaolong-style-laoshiren
 description: "《捞尸人》文风锁定技能（纯洁滴小龙）。触发词：捞尸人文风、捞尸人风格。核心：东北乡村年代传奇 · 灵异。"
 keywords: "东北乡村年代传奇 · 灵异"
+display_name: 《捞尸人》文风锁定
 ---
 
 # 文风锁定技能：《捞尸人》（纯洁滴小龙）

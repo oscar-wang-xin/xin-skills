@@ -1,7 +1,8 @@
 ---
-name: xin-ergen-style-仙逆
+name: xin-ergen-style-xianni
 description: "《仙逆》文风锁定技能（耳根）。触发词：仙逆文风、仙逆风格、模仿仙逆写法。核心：逆天改命 · 坚韧沧桑 · 杀伐决断。"
 keywords: "逆天改命 · 坚韧沧桑 · 杀伐决断"
+display_name: 《仙逆》文风锁定
 agent_created: true
 ---
 

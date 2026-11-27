@@ -1,7 +1,8 @@
 ---
-name: xin-lady-style-权宦心头朱砂痣
+name: xin-lady-style-quanhuanxintouzhushazhi
 description: "《权宦心头朱砂痣》文风锁定技能（袖侧）。触发词：权宦心头朱砂痣文风、权宦心头朱砂痣风格。核心：宅门权谋 · 二嫁古言 · 反问式钩子。"
 keywords: "宅门权谋 · 二嫁古言 · 反问式钩子"
+display_name: 《权宦心头朱砂痣》文风锁定
 ---
 # 《权宦心头朱砂痣》文风指纹（袖侧）
 

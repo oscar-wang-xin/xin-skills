@@ -1,5 +1,5 @@
 ---
-name: xin-wangshuo-style-永失我爱
+name: xin-wangshuo-style-yongshiawo
 description: "《永失我爱》文风锁定技能（王朔）。触发词：永失我爱文风、王朔文风。核心：第一人称绝症爱情 · 短段短句 · 克制煽情。"
 keywords: "第一人称绝症爱情 · 短段短句 · 克制煽情 · 工地北京 · 医疗细节"
 display_name: 王朔《永失我爱》文风锁定

@@ -1,7 +1,8 @@
 ---
-name: xin-lady-style-凶案现场直播
+name: xin-lady-style-xionganxianchangzhibo
 description: "《凶案现场直播》文风锁定技能（退戈）。触发词：凶案现场直播文风、凶案现场直播风格。核心：悬疑直播 · 多媒介文本 · 冷幽默毒舌。"
 keywords: "悬疑直播 · 多媒介文本 · 冷幽默毒舌"
+display_name: 《凶案现场直播》文风锁定
 ---
 # 《凶案现场直播》文风指纹（退戈）
 

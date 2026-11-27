@@ -1,7 +1,8 @@
 ---
-name: xin-liangyusheng-style-侠骨丹心
+name: xin-liangyusheng-style-xiagudanxin
 description: "《侠骨丹心》文风锁定技能（梁羽生）。触发词：侠骨丹心文风、侠骨丹心风格、梁羽生文风。核心：轻喜剧 · 痞侠金逐流 · 章回体。"
 keywords: "轻喜剧 · 痞侠金逐流 · 章回体"
+display_name: 《侠骨丹心》文风锁定
 agent_created: true
 ---
 

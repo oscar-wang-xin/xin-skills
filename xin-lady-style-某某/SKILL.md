@@ -1,7 +1,8 @@
 ---
-name: xin-lady-style-某某
+name: xin-lady-style-moumou
 description: "《某某》文风锁定技能（木苏里）。触发词：某某文风、某某风格。核心：现代校园 · 群口对白 · 少年群像。"
 keywords: "现代校园 · 群口对白 · 少年群像"
+display_name: 《某某》文风锁定
 ---
 
 # 某某 · 文风锁定（xin-lady-style）

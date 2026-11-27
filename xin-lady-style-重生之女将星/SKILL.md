@@ -1,7 +1,8 @@
 ---
-name: xin-lady-style-重生之女将星
+name: xin-lady-style-nvjiangxing
 description: "《重生之女将星》文风锁定技能（千山茶客）。触发词：重生之女将星文风、重生之女将星风格。核心：女扮男装 · 重生复仇 · 宣言短钩。"
 keywords: "女扮男装 · 重生复仇 · 宣言短钩"
+display_name: 《重生之女将星》文风锁定
 ---
 
 # 《重生之女将星》文风锁定（千山茶客）

@@ -1,7 +1,8 @@
 ---
-name: xin-huangyi-style-破碎虚空
+name: xin-huangyi-style-posuixukong
 description: "《破碎虚空》文风锁定技能（黄易）。触发词：破碎虚空文风、破碎虚空风格、模仿黄易写法。核心：黄易武侠风 · 道家哲思 · 苍凉恢宏。"
 keywords: "黄易武侠风 · 道家哲思 · 苍凉恢宏"
+display_name: 《破碎虚空》文风锁定
 agent_created: true
 ---
 

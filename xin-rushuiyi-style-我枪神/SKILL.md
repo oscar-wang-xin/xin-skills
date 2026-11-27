@@ -1,7 +1,8 @@
 ---
-name: xin-rushuiyi-style-我枪神
+name: xin-rushuiyi-style-woqiangshen
 description: "《我枪神》文风锁定技能（如水意）。触发词：我枪神文风、枪神风格、模仿我枪神写法。核心：都市枪战 · 硬核写实 · 战友群像。"
 keywords: "都市枪战 · 硬核写实 · 战友群像"
+display_name: 《我枪神》文风锁定
 agent_created: true
 ---
 

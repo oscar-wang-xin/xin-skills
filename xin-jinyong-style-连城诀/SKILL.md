@@ -1,7 +1,8 @@
 ---
-name: xin-jinyong-style-连城诀
+name: xin-jinyong-style-lianchengjue
 description: "《连城诀》文风锁定技能（金庸）。触发词：连城诀文风、连城诀风格、金庸文风。核心：阴冷反讽 · 老实人悲剧 · 余韵式收束。"
 keywords: "阴冷反讽 · 老实人悲剧 · 余韵式收束"
+display_name: 《连城诀》文风锁定
 agent_created: true
 ---
 

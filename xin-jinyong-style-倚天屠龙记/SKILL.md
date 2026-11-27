@@ -1,7 +1,8 @@
 ---
-name: xin-jinyong-style-倚天屠龙记
+name: xin-jinyong-style-yitiantulongji
 description: "《倚天屠龙记》文风锁定技能（金庸）。触发词：倚天屠龙记文风、倚天屠龙记风格、模仿倚天屠龙记写法。核心：悲壮侠义 · 旧白话武侠 · 义与不得已。"
 keywords: "悲壮侠义 · 旧白话武侠 · 义与不得已"
+display_name: 《倚天屠龙记》文风锁定
 agent_created: true
 ---
 

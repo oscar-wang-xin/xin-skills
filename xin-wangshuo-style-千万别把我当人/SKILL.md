@@ -1,5 +1,5 @@
 ---
-name: xin-wangshuo-style-千万别把我当人
+name: xin-wangshuo-style-qianwanbiewobadangren
 description: "《千万别把我当人》文风锁定技能（王朔）。触发词：千万别把我当人文风、王朔文风。核心：荒诞闹剧 · 媒体奇观 · 黑色讽刺。"
 keywords: "荒诞闹剧 · 媒体奇观 · 黑色讽刺 · 官僚黑话 · 群众场面"
 display_name: 王朔《千万别把我当人》文风锁定

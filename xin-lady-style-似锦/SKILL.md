@@ -1,7 +1,8 @@
 ---
-name: xin-lady-style-似锦
+name: xin-lady-style-sijin
 description: "《似锦》文风锁定技能（冬天的柳叶）。触发词：似锦文风、似锦风格。核心：宅斗权谋 · 重生宠文 · 心理蒙太奇。"
 keywords: "宅斗权谋 · 重生宠文 · 心理蒙太奇"
+display_name: 《似锦》文风锁定
 ---
 
 # 《似锦》文风锁定（冬天的柳叶）

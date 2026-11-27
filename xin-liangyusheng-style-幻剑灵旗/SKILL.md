@@ -1,7 +1,8 @@
 ---
-name: xin-liangyusheng-style-幻剑灵旗
+name: xin-liangyusheng-style-huanjianlingqi
 description: "《幻剑灵旗》文风锁定技能（梁羽生）。触发词：幻剑灵旗文风、幻剑灵旗风格、梁羽生文风。核心：悲情基调 · 悬疑张力 · 成人江湖。"
 keywords: "悲情基调 · 悬疑张力 · 成人江湖"
+display_name: 《幻剑灵旗》文风锁定
 agent_created: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: xin-wangshuo-style-过把瘾就死
+name: xin-wangshuo-style-guobayinjiu
 description: "《过把瘾就死》文风锁定技能（王朔）。触发词：过把瘾就死文风、王朔文风。核心：第一人称婚姻战争 · 京味对白 · 又甜又疼。"
 keywords: "第一人称婚姻战争 · 京味对白 · 又甜又疼 · 高问号 · 家庭写实"
 display_name: 王朔《过把瘾就死》文风锁定

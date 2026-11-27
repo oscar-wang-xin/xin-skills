@@ -1,7 +1,8 @@
 ---
-name: xin-fanqie-style-异兽迷城
+name: xin-fanqie-style-yishoumicheng
 description: "《异兽迷城》文风锁定技能。触发词：异兽迷城文风、异兽迷城风格、模仿异兽迷城写法。核心：都市克苏鲁 · 兽化生存 · 悬疑推演。"
 keywords: "都市克苏鲁 · 兽化生存 · 悬疑推演"
+display_name: 《异兽迷城》文风锁定
 agent_created: true
 ---
 

@@ -1,7 +1,8 @@
 ---
-name: xin-fanqie-style-从前有座镇妖关
+name: xin-fanqie-style-zhenyaoguan
 description: "《从前有座镇妖关》文风锁定技能。触发词：从前有座镇妖关文风、镇妖关风格、模仿镇妖关写法。核心：黑色幽默 · 反差沙雕 · 都市高武。"
 keywords: "黑色幽默 · 反差沙雕 · 都市高武"
+display_name: 《从前有座镇妖关》文风锁定
 agent_created: true
 ---
 

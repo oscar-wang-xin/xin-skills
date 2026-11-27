@@ -1,5 +1,5 @@
 ---
-name: xin-wangshuo-style-美人赠我蒙汗药
+name: xin-wangshuo-style-meirenzengwomenghanyao
 description: "《美人赠我蒙汗药》文风锁定技能（王朔/老侠）。触发词：美人赠我蒙汗药文风、王朔对话文风。核心：双人对谈 · 文化批评 · 长轮次。"
 keywords: "双人对谈 · 文化批评 · 长轮次 · 京味痞话 · 知识分子批判"
 display_name: 王朔/老侠《美人赠我蒙汗药》文风锁定

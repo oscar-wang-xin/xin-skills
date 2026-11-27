@@ -1,7 +1,8 @@
 ---
-name: xin-liangyusheng-style-冰河洗剑录
+name: xin-liangyusheng-style-binghexijianlu
 description: "《冰河洗剑录》文风锁定技能（梁羽生）。触发词：冰河洗剑录文风、冰河洗剑录风格、模仿冰河洗剑录写法。核心：正剧底 · 市井谐趣 · 章回体。"
 keywords: "正剧底 · 市井谐趣 · 章回体"
+display_name: 《冰河洗剑录》文风锁定
 agent_created: true
 ---
 

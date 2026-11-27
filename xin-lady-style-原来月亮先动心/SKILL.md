@@ -1,7 +1,8 @@
 ---
-name: xin-lady-style-原来月亮先动心
+name: xin-lady-style-yuanlaiyueliangxiandongxin
 description: "《原来月亮先动心》文风锁定技能（三奈果子）。触发词：原来月亮先动心文风、原来月亮先动心风格。核心：校园甜宠 · 年龄差 · 轻喜剧对白。"
 keywords: "校园甜宠 · 年龄差 · 轻喜剧对白"
+display_name: 《原来月亮先动心》文风锁定
 ---
 
 # 《原来月亮先动心》文风锁定（三奈果子）

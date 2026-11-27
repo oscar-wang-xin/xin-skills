@@ -1,7 +1,8 @@
 ---
-name: xin-fanqie-style-烟雨楼
+name: xin-fanqie-style-yanyulou
 description: "《烟雨楼》文风锁定技能。触发词：烟雨楼文风、烟雨楼风格、模仿烟雨楼写法。核心：传统玄幻扮猪吃虎 · 多视角 · 冷幽默。"
 keywords: "传统玄幻扮猪吃虎 · 多视角 · 冷幽默"
+display_name: 《烟雨楼》文风锁定
 agent_created: true
 ---
 

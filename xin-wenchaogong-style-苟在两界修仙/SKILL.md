@@ -1,7 +1,8 @@
 ---
-name: xin-wenchaogong-style-苟在两界修仙
+name: xin-wenchaogong-style-gouzailiangjiexiuxian
 description: "《苟在两界修仙》文风锁定技能（文抄公）。触发词：苟在两界修仙文风、苟在风格、模仿苟在写法。核心：苟道流 · 两界穿越 · 理性克制。"
 keywords: "苟道流 · 两界穿越 · 理性克制"
+display_name: 《苟在两界修仙》文风锁定
 agent_created: true
 ---
 

@@ -1,7 +1,8 @@
 ---
-name: xin-fanqie-style-不死帝师
+name: xin-fanqie-style-busidishi
 description: "《不死帝师》文风锁定技能。触发词：不死帝师文风、不死帝师风格、模仿不死帝师写法。核心：长生流 · 时间差碾压 · 旁观式温情。"
 keywords: "长生流 · 时间差碾压 · 旁观式温情"
+display_name: 《不死帝师》文风锁定
 agent_created: true
 ---
 

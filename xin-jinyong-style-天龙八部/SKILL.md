@@ -1,7 +1,8 @@
 ---
-name: xin-jinyong-style-天龙八部
+name: xin-jinyong-style-tianlongbabu
 description: "《天龙八部》文风锁定技能（金庸）。触发词：天龙八部文风、天龙八部风格、模仿天龙八部写法。核心：多线群像 · 命运悲剧 · 悲喜交替。"
 keywords: "多线群像 · 命运悲剧 · 悲喜交替"
+display_name: 《天龙八部》文风锁定
 agent_created: true
 ---
 

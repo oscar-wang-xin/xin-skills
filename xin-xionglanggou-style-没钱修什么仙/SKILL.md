@@ -1,7 +1,8 @@
 ---
-name: xin-xionglanggou-style-没钱修什么仙
+name: xin-xionglanggou-style-meiqianxiushenmexian
 description: "《没钱修什么仙》文风锁定技能（熊狼狗）。触发词：没钱修什么仙文风、没钱修什么仙风格。核心：科学修仙 · 都市无厘头。"
 keywords: "科学修仙 · 都市无厘头"
+display_name: 《没钱修什么仙》文风锁定
 ---
 
 # 文风锁定技能：《没钱修什么仙》（熊狼狗）

@@ -1,7 +1,8 @@
 ---
-name: xin-liangyusheng-style-散花女侠
+name: xin-liangyusheng-style-sanhuanvxia
 description: "《散花女侠》文风锁定技能（梁羽生）。触发词：散花女侠文风、散花女侠风格、模仿散花女侠写法。核心：萍踪续篇 · 少女成长。"
 keywords: "萍踪续篇 · 少女成长"
+display_name: 《散花女侠》文风锁定
 agent_created: true
 ---
 

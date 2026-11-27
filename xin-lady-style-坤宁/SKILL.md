@@ -1,7 +1,8 @@
 ---
-name: xin-lady-style-坤宁
+name: xin-lady-style-kunning
 description: "《坤宁》文风锁定技能（时镜）。触发词：坤宁文风、时镜文风、模仿坤宁写法。核心：宫廷重生 · 碎行流 · 情绪直给。"
 keywords: "宫廷重生 · 碎行流 · 情绪直给"
+display_name: 《坤宁》文风锁定
 agent_created: true
 ---
 

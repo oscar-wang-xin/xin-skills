@@ -1,7 +1,8 @@
 ---
-name: xin-fanqie-style-我靠焚尸超凡入圣
+name: xin-fanqie-style-fenshi
 description: "《我靠焚尸超凡入圣》文风锁定技能。触发词：焚尸文风、焚尸风格、模仿焚尸写法。核心：半文半白悬疑灵异 · 系统奖励升级 · 恐怖+冷幽默。"
 keywords: "半文半白悬疑灵异 · 系统奖励升级 · 恐怖+冷幽默"
+display_name: 《我靠焚尸超凡入圣》文风锁定
 agent_created: true
 ---
 

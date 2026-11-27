@@ -1,7 +1,8 @@
 ---
-name: xin-liangyusheng-style-武林天骄
+name: xin-liangyusheng-style-wulintianjiao
 description: "《武林天骄》文风锁定技能（梁羽生）。触发词：武林天骄、檀羽冲、梁羽生文风。核心：晚期代表作 · 宋金背景 · 檀羽冲。"
 keywords: "晚期代表作 · 宋金背景 · 檀羽冲"
+display_name: 《武林天骄》文风锁定
 ---
 
 # 武林天骄 · 梁羽生晚期文风锁定（xin-liangyusheng-style-武林天骄）

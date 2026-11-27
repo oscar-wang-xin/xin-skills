@@ -1,7 +1,8 @@
 ---
-name: xin-liangyusheng-style-慧剑心魔
+name: xin-liangyusheng-style-huijianxinmo
 description: "《慧剑心魔》文风锁定技能（梁羽生）。触发词：慧剑心魔文风、梁羽生文风、唐代三部曲。核心：少年群像 · 唐代三部曲 · 少女心事。"
 keywords: "少年群像 · 唐代三部曲 · 少女心事"
+display_name: 《慧剑心魔》文风锁定
 ---
 
 # 《慧剑心魔》文风锁定（xin-liangyusheng-style-慧剑心魔）

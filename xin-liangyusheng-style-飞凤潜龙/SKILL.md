@@ -1,7 +1,8 @@
 ---
-name: xin-liangyusheng-style-飞凤潜龙
+name: xin-liangyusheng-style-feifengqianlong
 description: "《飞凤潜龙》文风锁定技能（梁羽生）。触发词：飞凤潜龙文风、飞凤潜龙风格。核心：侦探武侠 · 悬疑对话体 · 短段快切。"
 keywords: "侦探武侠 · 悬疑对话体 · 短段快切"
+display_name: 《飞凤潜龙》文风锁定
 ---
 
 # 梁羽生《飞凤潜龙》文风锁定技能

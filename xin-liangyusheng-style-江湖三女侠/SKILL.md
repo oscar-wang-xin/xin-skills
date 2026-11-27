@@ -1,7 +1,8 @@
 ---
-name: xin-liangyusheng-style-江湖三女侠
+name: xin-liangyusheng-style-jianghusannvxia
 description: "《江湖三女侠》文风锁定技能（梁羽生）。触发词：江湖三女侠文风、江湖三女侠风格、模仿江湖三女侠写法。核心：侠义悲慨 · 国仇家恨 · 人物幽默。"
 keywords: "侠义悲慨 · 国仇家恨 · 人物幽默"
+display_name: 《江湖三女侠》文风锁定
 agent_created: true
 ---
 

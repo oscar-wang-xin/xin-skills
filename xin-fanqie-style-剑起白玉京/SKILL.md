@@ -1,7 +1,8 @@
 ---
-name: xin-fanqie-style-剑起白玉京
+name: xin-fanqie-style-baiyujing
 description: "《剑起白玉京》文风锁定技能。触发词：剑起白玉京文风、剑起白玉京风格、模仿剑起白玉京写法。核心：轻松沙雕仙侠 · 现代口语解构修仙 · 双线交织。"
 keywords: "轻松沙雕仙侠 · 现代口语解构修仙 · 双线交织"
+display_name: 《剑起白玉京》文风锁定
 agent_created: true
 ---
 

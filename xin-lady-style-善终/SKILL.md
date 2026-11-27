@@ -1,7 +1,8 @@
 ---
-name: xin-lady-style-善终
+name: xin-lady-style-shanzhong
 description: "《善终》文风锁定技能（玖拾陆）。触发词：善终文风、善终风格。核心：宅斗重生 · 物件证重生 · 家人暖线。"
 keywords: "宅斗重生 · 物件证重生 · 家人暖线"
+display_name: 《善终》文风锁定
 ---
 
 # 《善终》文风锁定（玖拾陆）

@@ -1,7 +1,8 @@
 ---
-name: xin-fanqie-style-十日终焉
+name: xin-fanqie-style-shirizhongyan
 description: "《十日终焉》文风锁定技能。触发词：十日终焉文风、十日终焉风格、模仿十日终焉写法。核心：冷峻悬疑 · 死亡博弈 · 推理反转。"
 keywords: "冷峻悬疑 · 死亡博弈 · 推理反转"
+display_name: 《十日终焉》文风锁定
 agent_created: true
 ---
 

@@ -1,7 +1,8 @@
 ---
-name: xin-fennudexiangjiao-style-隐杀
+name: xin-fennudexiangjiao-style-yinsha
 description: "《隐杀》文风锁定技能（愤怒的香蕉）。触发词：隐杀文风、隐杀风格、模仿隐杀写法。核心：杀手重生 · 轻松YY · 冷面笑匠反差。"
 keywords: "杀手重生 · 轻松YY · 冷面笑匠反差"
+display_name: 《隐杀》文风锁定
 agent_created: true
 ---
 

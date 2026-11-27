@@ -1,7 +1,8 @@
 ---
-name: xin-fenghuoxizhuhou-style-雪中悍刀行
+name: xin-fenghuoxizhuhou-style-xuezhonghandaoxing
 description: "《雪中悍刀行》文风锁定技能（烽火戏诸侯）。触发词：雪中悍刀行文风、雪中悍刀行风格、模仿雪中悍刀行写法。核心：市井江湖气 · 文人雅致 · 从容闲笔。"
 keywords: "市井江湖气 · 文人雅致 · 从容闲笔"
+display_name: 《雪中悍刀行》文风锁定
 agent_created: true
 ---
 

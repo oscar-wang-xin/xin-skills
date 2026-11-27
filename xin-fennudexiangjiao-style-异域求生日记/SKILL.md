@@ -1,7 +1,8 @@
 ---
-name: xin-fennudexiangjiao-style-异域求生日记
+name: xin-fennudexiangjiao-style-yiyuqiushengriji
 description: "《异域求生日记》文风锁定技能（愤怒的香蕉）。触发词：异域求生日记文风、异域求生日记风格、模仿愤怒的香蕉写法。核心：温柔哀伤 · 哲学沉思 · 抒情。"
 keywords: "温柔哀伤 · 哲学沉思 · 抒情"
+display_name: 《异域求生日记》文风锁定
 agent_created: true
 ---
 

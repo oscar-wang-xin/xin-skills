@@ -1,7 +1,8 @@
 ---
-name: xin-jinyong-style-鹿鼎记
+name: xin-jinyong-style-ludingji
 description: "《鹿鼎记》文风锁定技能（金庸）。触发词：鹿鼎记文风、鹿鼎记风格、金庸文风。核心：市井滑稽 · 反讽解构 · 韦小宝。"
 keywords: "市井滑稽 · 反讽解构 · 韦小宝"
+display_name: 《鹿鼎记》文风锁定
 agent_created: true
 ---
 

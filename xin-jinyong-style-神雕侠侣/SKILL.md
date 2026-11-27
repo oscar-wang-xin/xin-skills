@@ -1,7 +1,8 @@
 ---
-name: xin-jinyong-style-神雕侠侣
+name: xin-jinyong-style-shendiaoxialv
 description: "《神雕侠侣》文风锁定技能（金庸）。触发词：神雕侠侣文风、神雕文风、神雕侠侣风格。核心：至情叙事 · 悲壮底色 · 情义恩怨。"
 keywords: "至情叙事 · 悲壮底色 · 情义恩怨"
+display_name: 《神雕侠侣》文风锁定
 agent_created: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: xin-liangyusheng-style-风雷震九州
+name: xin-liangyusheng-style-fengleizhenjiuzhou
 description: "《风雷震九州》文风锁定技能（梁羽生）。触发词：风雷震九州文风、风雷震九州风格。核心：忠义对照 · 三层收束 · 章回体。"
 keywords: "忠义对照 · 三层收束 · 章回体"
 display_name: 梁羽生《风雷震九州》文风锁定

@@ -1,7 +1,8 @@
 ---
-name: xin-fanqie-style-我不是戏神
+name: xin-fanqie-style-wobushixishen
 description: "《我不是戏神》文风锁定技能。触发词：我不是戏神文风、我不是戏神风格、模仿我不是戏神写法。核心：中式怪诞 · 诡异恐怖 · 冷幽默。"
 keywords: "中式怪诞 · 诡异恐怖 · 冷幽默"
+display_name: 《我不是戏神》文风锁定
 agent_created: true
 ---
 

@@ -1,7 +1,8 @@
 ---
-name: xin-gulong-style-多情剑客无情剑
+name: xin-gulong-style-duoqingjianke
 description: "《多情剑客无情剑》文风锁定技能（古龙）。触发词：多情剑客无情剑文风、古龙风格、模仿古龙写法。核心：苍凉浪漫 · 江湖豪情 · 个人悲歌。"
 keywords: "苍凉浪漫 · 江湖豪情 · 个人悲歌"
+display_name: 《多情剑客无情剑》文风锁定
 agent_created: true
 ---
 

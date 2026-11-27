@@ -7,7 +7,7 @@
 - 每个技能 = `SKILL.md`（十维风格规范）＋ `references/style_examples.md`（风格样本，137 个技能附带）
 <!-- END:SKILL-STATS -->
 - 一键安装：`npx skills add oscar-wang-xin/xin-skills`
-- 格式兼容 Reasonix Skills / Claude Skills / 通用 Agent Skills
+- 格式遵循 Agent Skills 结构：目录名是**原作中文书名**，`SKILL.md` 的 `name` 是**唯一 ASCII 机器名**（安装器用），`description` / `display_name` 展示中文书名；`npx skills` 实测可完整安装 139 个独立技能。
 
 ---
 
@@ -23,6 +23,8 @@
 ---
 
 ## 技能总览
+
+> 目录名格式：`前缀 + 原作中文书名`。书名里的空格和标点转成 `-`，`·` 保留（如 `xin-wangshuo-style-起初·纪年`、`xin-wangshuo-style-一半是火焰-一半是海水`）。`SKILL.md` 的 `name` 另用唯一 ASCII slug（如 `xin-wangshuo-style-qichu-jinian`），避免安装器把中文名截断后互相覆盖。
 
 <!-- BEGIN:SKILL-INDEX -->
 
@@ -215,7 +217,7 @@
 
 ### 方式一：npx skills add（推荐）
 
-本仓库符合 Agent Skills 规范（每个技能均含带 `name` / `description` 的 `SKILL.md`），可用官方 CLI 一条命令安装——CLI 会自动发现仓库内全部技能，并检测本机已安装的 AI Agent：
+本仓库结构符合 Agent Skills 规范（每个技能均含带 `name` / `description` 的 `SKILL.md`），可用官方 CLI 一条命令安装——CLI 会自动发现仓库内全部技能，并检测本机已安装的 AI Agent。**目录名是中文书名，`name` 是唯一 ASCII 机器名**：`--list` 显示 ASCII 名，下面的中文简介就是书名；安装到各 Agent 时不会截断或互相覆盖。已实测 `--skill '*'` 可完整安装 139 个独立技能：
 
 ```bash
 # 安装全部技能
@@ -224,8 +226,11 @@ npx skills add oscar-wang-xin/xin-skills
 # 先预览仓库中有哪些技能
 npx skills add oscar-wang-xin/xin-skills --list
 
-# 只安装指定技能（--skill 可重复多次）
-npx skills add oscar-wang-xin/xin-skills --skill xin-fanqie-style-剑起白玉京
+# 只安装指定技能（--skill 用 SKILL.md 的 ASCII name，可重复多次）
+npx skills add oscar-wang-xin/xin-skills --skill xin-fanqie-style-jianqi-baiyujing
+
+# 想给某个技能装成自定义 ASCII 名（可选）
+npx skills add oscar-wang-xin/xin-skills --skill xin-fanqie-style-jianqi-baiyujing --rename my-jianqi-baiyujing
 
 # 指定目标 Agent 并跳过交互提示
 npx skills add oscar-wang-xin/xin-skills -a reasonix -a claude-code -y
@@ -320,13 +325,13 @@ xin-fanqie-style-剑起白玉京/
 
 ```
 xin-skills/
-├── xin-<author>-style-<book>/   # 每个技能一个目录，根目录即安装单位
+├── xin-<author>-style-<中文书名>/   # 每个技能一个目录，根目录即安装单位
 └── docs/
     ├── catalog/                 # 分类画像页（README「风格画像」的来源）
     └── triggers.md              # 触发词一览
 ```
 
-技能格式遵循 Agent Skills 规范：目录名即技能名，`SKILL.md` 里的 `name` 必须与目录名一致。
+技能格式遵循 Agent Skills 结构：目录名是给人看的**原作中文书名**；`SKILL.md` 里的 `name` 是给安装器用的**唯一 ASCII slug**。目录名为 ASCII 时两者必须一致；目录名含中文时允许不同，但 `name` 必须唯一。
 
 ---
 

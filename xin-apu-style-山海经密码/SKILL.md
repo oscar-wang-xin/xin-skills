@@ -1,7 +1,8 @@
 ---
-name: xin-apu-style-山海经密码
+name: xin-apu-style-shanhaijingmima
 description: "《山海经密码》文风锁定技能（阿菩）。触发词：山海经密码文风、山海经密码风格、模仿山海经密码写法。核心：史诗苍凉 · 上古神话探秘 · 权谋博弈。"
 keywords: "史诗苍凉 · 上古神话探秘 · 权谋博弈"
+display_name: 《山海经密码》文风锁定
 agent_created: true
 ---
 

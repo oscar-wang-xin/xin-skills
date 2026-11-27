@@ -1,7 +1,8 @@
 ---
-name: xin-liangyusheng-style-风云雷电
+name: xin-liangyusheng-style-fengyunleidian
 description: "《风云雷电》文风锁定技能（梁羽生）。触发词：风云雷电文风、风云雷电风格、模仿风云雷电写法。核心：少年侠气 · 家国对抗 · 群像。"
 keywords: "少年侠气 · 家国对抗 · 群像"
+display_name: 《风云雷电》文风锁定
 agent_created: true
 ---
 

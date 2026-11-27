@@ -1,7 +1,8 @@
 ---
-name: xin-liangyusheng-style-白发魔女传
+name: xin-liangyusheng-style-baifamonvzhuan
 description: "《白发魔女传》文风锁定技能（梁羽生）。触发词：白发魔女传文风、白发魔女传风格、模仿白发魔女传写法。核心：悲剧底色 · 家国政局 · 白头题眼。"
 keywords: "悲剧底色 · 家国政局 · 白头题眼"
+display_name: 《白发魔女传》文风锁定
 agent_created: true
 ---
 

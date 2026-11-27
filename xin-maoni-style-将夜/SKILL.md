@@ -1,7 +1,8 @@
 ---
-name: xin-maoni-style-将夜
+name: xin-maoni-style-jiangye
 description: "《将夜》文风锁定技能（猫腻）。触发词：将夜文风、将夜风格、模仿将夜写法。核心：长句铺陈 · 文气克制 · 章末留白。"
 keywords: "长句铺陈 · 文气克制 · 章末留白"
+display_name: 《将夜》文风锁定
 agent_created: true
 ---
 

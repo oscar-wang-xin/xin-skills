@@ -1,7 +1,8 @@
 ---
-name: xin-fanqie-style-我给末世主角们发编制
+name: xin-fanqie-style-moshibianzhi
 description: "《我给末世主角们发编制》文风锁定技能。触发词：我给末世主角们发编制文风、末世发编制风格、模仿末世发编制写法。核心：反套路 · 国家力量降维打击 · 冷幽默群像。"
 keywords: "反套路 · 国家力量降维打击 · 冷幽默群像"
+display_name: 《我给末世主角们发编制》文风锁定
 agent_created: true
 ---
 

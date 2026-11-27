@@ -1,7 +1,8 @@
 ---
-name: xin-lady-style-盛华
+name: xin-lady-style-shenghua
 description: "《盛华》文风锁定技能（闲听落花）。触发词：盛华文风、盛华风格。核心：重生权谋 · 家族群像 · 绵密长句。"
 keywords: "重生权谋 · 家族群像 · 绵密长句"
+display_name: 《盛华》文风锁定
 ---
 
 # 《盛华》文风锁定（闲听落花·绵密群像叙述腔）

@@ -1,7 +1,8 @@
 ---
-name: xin-fanqie-style-镇守百万年-我的徒弟吊打诸天
+name: xin-fanqie-style-diaodazhutian
 description: "《镇守百万年，我的徒弟吊打诸天》文风锁定技能。触发词：镇守百万年文风、镇守百万年风格、模仿镇守百万年写法。核心：搞笑轻松 · 爽文碾压 · 师徒反差。"
 keywords: "搞笑轻松 · 爽文碾压 · 师徒反差"
+display_name: 《镇守百万年，我的徒弟吊打诸天》文风锁定
 agent_created: true
 ---
 

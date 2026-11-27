@@ -1,7 +1,8 @@
 ---
-name: xin-liangyusheng-style-云海玉弓缘
+name: xin-liangyusheng-style-yunhaiyugongyuan
 description: "《云海玉弓缘》文风锁定技能（梁羽生）。触发词：云海玉弓缘文风、云海玉弓缘风格、模仿云海玉弓缘写法。核心：恩仇痴情 · 正剧底色。"
 keywords: "恩仇痴情 · 正剧底色"
+display_name: 《云海玉弓缘》文风锁定
 agent_created: true
 ---
 

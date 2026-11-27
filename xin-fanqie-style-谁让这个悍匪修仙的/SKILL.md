@@ -1,7 +1,8 @@
 ---
-name: xin-fanqie-style-谁让这个悍匪修仙的
+name: xin-fanqie-style-hanfeixiuxian
 description: "《谁让这个悍匪修仙的！》文风锁定技能。触发词：谁让这个悍匪修仙的、悍匪修仙文风、悍匪修仙风格。核心：搞笑腹黑 · 土匪思维解构修仙 · 反差爽文。"
 keywords: "搞笑腹黑 · 土匪思维解构修仙 · 反差爽文"
+display_name: 《谁让这个悍匪修仙的！》文风锁定
 agent_created: true
 ---
 

@@ -1,7 +1,8 @@
 ---
-name: xin-lady-style-癫-都癫-癫点好啊
+name: xin-lady-style-xuyizhufeng
 description: "《癫，都癫，癫点好啊》文风锁定技能（小盐子）。触发词：癫，都癫，癫点好啊文风、癫，都癫，癫点好啊风格。核心：穿书恋综 · 发癫女主 · 多声部弹幕。"
 keywords: "穿书恋综 · 发癫女主 · 多声部弹幕"
+display_name: 《癫，都癫，癫点好啊》文风锁定
 ---
 
 # 《癫，都癫，癫点好啊》文风锁定（小盐子）

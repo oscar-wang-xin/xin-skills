@@ -1,7 +1,8 @@
 ---
-name: xin-yuantong-style-异常生物见闻录
+name: xin-yuantong-style-yichangshengwu
 description: "《异常生物见闻录》文风锁定技能（远瞳）。触发词：异常生物见闻录文风、异常生物见闻录风格、模仿异常生物见闻录写法。核心：轻松搞笑 · 吐槽 · 都市科幻。"
 keywords: "轻松搞笑 · 吐槽 · 都市科幻"
+display_name: 《异常生物见闻录》文风锁定
 agent_created: true
 ---
 

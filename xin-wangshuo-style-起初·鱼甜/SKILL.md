@@ -1,5 +1,5 @@
 ---
-name: xin-wangshuo-style-起初·鱼甜
+name: xin-wangshuo-style-qichu-yutian
 description: "《起初·鱼甜》文风锁定技能（王朔）。触发词：起初鱼甜文风、王朔文风。核心：汉武童年 · 上古双线 · 京味回忆录。"
 keywords: "汉武童年 · 上古双线 · 京味回忆录 · 无引号对白 · 黑色幽默"
 display_name: 王朔《起初·鱼甜》文风锁定

@@ -1,7 +1,8 @@
 ---
-name: xin-lady-style-九重紫
+name: xin-lady-style-jiuchongzi
 description: "《九重紫》文风锁定技能（吱吱）。触发词：九重紫文风、九重紫风格。核心：宅斗重生 · 账本笔法 · 笑道标签。"
 keywords: "宅斗重生 · 账本笔法 · 笑道标签"
+display_name: 《九重紫》文风锁定
 ---
 
 # 《九重紫》文风锁定（吱吱）

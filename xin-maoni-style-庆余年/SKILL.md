@@ -1,7 +1,8 @@
 ---
-name: xin-maoni-style-庆余年
+name: xin-maoni-style-qingyunian
 description: "《庆余年》文风锁定技能（猫腻）。触发词：庆余年、猫腻、范闲。核心：穿越权谋 · 庙堂江湖 · 范闲。"
 keywords: "穿越权谋 · 庙堂江湖 · 范闲"
+display_name: 《庆余年》文风锁定
 agent_created: true
 ---
 

@@ -1,7 +1,8 @@
 ---
-name: xin-lady-style-长安小饭馆
+name: xin-lady-style-changanxiaofanguan
 description: "《长安小饭馆》文风锁定技能（樱桃糕）。触发词：长安小饭馆文风、长安小饭馆风格。核心：古风美食 · 现代梗互文 · 市井轻喜剧。"
 keywords: "古风美食 · 现代梗互文 · 市井轻喜剧"
+display_name: 《长安小饭馆》文风锁定
 ---
 
 # 长安小饭馆（樱桃糕）文风锁定

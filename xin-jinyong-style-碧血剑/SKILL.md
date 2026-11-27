@@ -1,7 +1,8 @@
 ---
-name: xin-jinyong-style-碧血剑
+name: xin-jinyong-style-bixuejian
 description: "《碧血剑》文风锁定技能（金庸）。触发词：碧血剑文风、碧血剑风格、金庸文风。核心：金庸早期 · 传统武侠白描 · 家国悲慨。"
 keywords: "金庸早期 · 传统武侠白描 · 家国悲慨"
+display_name: 《碧血剑》文风锁定
 agent_created: true
 ---
 

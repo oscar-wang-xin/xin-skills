@@ -1,5 +1,5 @@
 ---
-name: xin-wangshuo-style-起初·纪年
+name: xin-wangshuo-style-qichu-jinian
 description: "《起初·纪年》文风锁定技能（王朔）。触发词：起初纪年文风、王朔文风。核心：汉武编年 · 京味口语 · 公文戏仿。"
 keywords: "汉武编年 · 京味口语 · 无引号对白 · 公文戏仿 · 冷幽默"
 display_name: 王朔《起初·纪年》文风锁定

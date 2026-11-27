@@ -1,7 +1,8 @@
 ---
-name: xin-lady-style-北城有雪
+name: xin-lady-style-beichengyouxue
 description: "《北城有雪》文风锁定技能（明开夜合）。触发词：北城有雪文风、明开夜合文风、模仿北城有雪写法。核心：都市言情 · 婉约细腻 · 破镜重圆。"
 keywords: "都市言情 · 婉约细腻 · 破镜重圆"
+display_name: 《北城有雪》文风锁定
 agent_created: true
 ---
 

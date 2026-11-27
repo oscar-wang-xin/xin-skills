@@ -1,7 +1,8 @@
 ---
-name: xin-lady-style-有匪
+name: xin-lady-style-youfei
 description: "《有匪》文风锁定技能（priest）。触发词：有匪文风、有匪风格、priest文风。核心：武侠言情 · 文白杂糅 · 长句连缀。"
 keywords: "武侠言情 · 文白杂糅 · 长句连缀"
+display_name: 《有匪》文风锁定
 agent_created: true
 ---
 

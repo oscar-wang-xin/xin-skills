@@ -1,7 +1,8 @@
 ---
-name: xin-gulong-style-楚留香系列·大沙漠
+name: xin-gulong-style-chuliuxiangdashamo
 description: "《楚留香系列·大沙漠》文风锁定技能（古龙）。触发词：楚留香文风、大沙漠文风、古龙楚留香风格。核心：武侠悬疑 · 朋友情谊 · 冷幽默。"
 keywords: "武侠悬疑 · 朋友情谊 · 冷幽默"
+display_name: 《楚留香系列·大沙漠》文风锁定
 agent_created: true
 ---
 

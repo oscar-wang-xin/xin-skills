@@ -1,7 +1,8 @@
 ---
-name: xin-liangyusheng-style-龙虎斗京华
+name: xin-liangyusheng-style-longhudoujinghua
 description: "《龙虎斗京华》文风锁定技能（梁羽生）。触发词：龙虎斗京华文风、龙虎斗京华风格、梁羽生文风。核心：新派开山 · 清末乱世 · 家国为骨。"
 keywords: "新派开山 · 清末乱世 · 家国为骨"
+display_name: 《龙虎斗京华》文风锁定
 agent_created: true
 ---
 

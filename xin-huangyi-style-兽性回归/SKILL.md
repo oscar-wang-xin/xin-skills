@@ -1,7 +1,8 @@
 ---
-name: xin-huangyi-style-兽性回归
+name: xin-huangyi-style-shouxinghuigui
 description: "《兽性回归》文风锁定技能（黄易）。触发词：兽性回归文风、兽性回归风格、模仿兽性回归写法。核心：科幻悬疑 · 理性克制 · 兽性撕扯。"
 keywords: "科幻悬疑 · 理性克制 · 兽性撕扯"
+display_name: 《兽性回归》文风锁定
 agent_created: true
 ---
 

@@ -1,7 +1,8 @@
 ---
-name: xin-liangyusheng-style-广陵剑
+name: xin-liangyusheng-style-guanglingjian
 description: "《广陵剑》文风锁定技能（梁羽生）。触发词：广陵剑文风、广陵剑风格、模仿广陵剑写法。核心：萍踪系列 · 悲慨。"
 keywords: "萍踪系列 · 悲慨"
+display_name: 《广陵剑》文风锁定
 agent_created: true
 ---
 

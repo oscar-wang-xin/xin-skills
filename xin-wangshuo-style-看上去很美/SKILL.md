@@ -1,5 +1,5 @@
 ---
-name: xin-wangshuo-style-看上去很美
+name: xin-wangshuo-style-kanshangquhenmei
 description: "《看上去很美》文风锁定技能（王朔）。触发词：看上去很美文风、王朔文风。核心：双人称童年回忆 · 无引号对白 · 长句感官。"
 keywords: "双人称童年回忆 · 无引号对白 · 长句感官 · 儿童视角 · 抒情实验"
 display_name: 王朔《看上去很美》文风锁定

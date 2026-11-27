@@ -1,7 +1,8 @@
 ---
-name: xin-fenghuoxizhuhou-style-剑来
+name: xin-fenghuoxizhuhou-style-jianlai
 description: "《剑来》文风锁定技能（烽火戏诸侯）。触发词：剑来文风、剑来风格、模仿剑来写法。核心：市井烟火 · 冷幽默 · 哲理。"
 keywords: "市井烟火 · 冷幽默 · 哲理"
+display_name: 《剑来》文风锁定
 agent_created: true
 ---
 

@@ -1,7 +1,8 @@
 ---
-name: xin-zhangxiaohua-style-史上第一混乱
+name: xin-zhangxiaohua-style-shishangdiyihunluan
 description: "《史上第一混乱》文风锁定技能（张小花）。触发词：史上第一混乱文风、张小花风格、反穿越搞笑。核心：反穿越 · 恶搞 · 历史人物现代。"
 keywords: "反穿越 · 恶搞 · 历史人物现代"
+display_name: 《史上第一混乱》文风锁定
 agent_created: true
 ---
 

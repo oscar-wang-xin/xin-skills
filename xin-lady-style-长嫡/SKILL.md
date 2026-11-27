@@ -1,7 +1,8 @@
 ---
-name: xin-lady-style-长嫡
+name: xin-lady-style-changdi
 description: "《长嫡》文风锁定技能（莞尔wr）。触发词：长嫡文风、长嫡风格。核心：唐风宅斗 · 梦境预知 · 心理推演。"
 keywords: "唐风宅斗 · 梦境预知 · 心理推演"
+display_name: 《长嫡》文风锁定
 ---
 
 # 《长嫡》文风锁定（莞尔wr）

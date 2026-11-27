@@ -1,7 +1,8 @@
 ---
-name: xin-wangyu-style-凡人修仙传
+name: xin-wangyu-style-fanrenxiuxianzhuan
 description: "《凡人修仙传》文风锁定技能（忘语）。触发词：凡人修仙传文风、凡人修仙传风格、模仿凡人修仙传真写法。核心：冷静克制 · 写实 · 低对话高内心。"
 keywords: "冷静克制 · 写实 · 低对话高内心"
+display_name: 《凡人修仙传》文风锁定
 agent_created: true
 ---
 
