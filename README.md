@@ -3,8 +3,8 @@
 > 为 AI 写作助手打造的一组「文风锁定」技能：从指定小说的正文样本中萃取**十维写作风格规范**，让 AI 严格模仿该小说的叙事视角、句式节奏、对话体系与情绪基调进行创作——**只学文笔，不抄剧情**。
 
 <!-- BEGIN:SKILL-STATS -->
-- 共 **122 个技能**：**番茄小说风格 19 个** ＋ **古龙武侠风格 4 个** ＋ **金庸武侠风格 10 个** ＋ **黄易风格 7 个** ＋ **梁羽生武侠风格 22 个** ＋ **女作者言情风格 29 个** ＋ **网络文学名家风格 31 个**
-- 每个技能 = `SKILL.md`（十维风格规范）＋ `references/style_examples.md`（风格样本，120 个技能附带）
+- 共 **123 个技能**：**番茄小说风格 19 个** ＋ **古龙武侠风格 4 个** ＋ **金庸武侠风格 10 个** ＋ **黄易风格 7 个** ＋ **梁羽生武侠风格 22 个** ＋ **女作者言情风格 29 个** ＋ **王朔风格 1 个** ＋ **网络文学名家风格 31 个**
+- 每个技能 = `SKILL.md`（十维风格规范）＋ `references/style_examples.md`（风格样本，121 个技能附带）
 <!-- END:SKILL-STATS -->
 - 一键安装：`npx skills add oscar-wang-xin/xin-skills`
 - 格式兼容 Reasonix Skills / Claude Skills / 通用 Agent Skills
@@ -149,6 +149,12 @@
 | `xin-lady-style-zhenxiuji` | 《珍馐记》 | 美食经营 · 预知梦悬疑 · 群像喜剧 |
 | `xin-lady-style-zheyao` | 《折腰》 | 乱世权谋 · 先婚后爱 · 半文半白 |
 
+### 🎭 王朔风格（1 个）
+
+| 技能目录名 | 文风锁定对象 | 风格关键词 |
+| --- | --- | --- |
+| `xin-wangshuo-style-qichu-jinian` | 《起初·纪年》 | 汉武编年 · 京味口语 · 无引号对白 · 公文戏仿 · 冷幽默 |
+
 ### 📚 网络文学名家风格（31 个）
 
 | 技能目录名 | 文风锁定对象 | 风格关键词 |
@@ -251,15 +257,20 @@ npx skills add oscar-wang-xin/xin-skills -g -y
 
 每个技能都有一页「风格画像」：这本书的文风长什么样、核心特征与情绪基调。
 
+<!-- BEGIN:CATALOG-INDEX -->
+
 | 分类 | 数量 | 画像页 |
 | --- | --- | --- |
 | 🍅 番茄小说风格 | 19 | [查看](docs/catalog/fanqie.md) |
 | 🥋 古龙武侠风格 | 4 | [查看](docs/catalog/gulong.md) |
 | ⚔️ 金庸武侠风格 | 10 | [查看](docs/catalog/jinyong.md) |
 | 🌊 黄易风格 | 7 | [查看](docs/catalog/huangyi.md) |
-| 📚 网络文学名家风格 | 31 | [查看](docs/catalog/mingjia.md) |
 | 📖 梁羽生武侠风格 | 22 | [查看](docs/catalog/liangyusheng.md) |
 | 💃 女作者言情风格 | 29 | [查看](docs/catalog/lady.md) |
+| 🎭 王朔风格 | 1 | [查看](docs/catalog/wangshuo.md) |
+| 📚 网络文学名家风格 | 31 | [查看](docs/catalog/mingjia.md) |
+
+<!-- END:CATALOG-INDEX -->
 
 > 画像正文按「分类」手工维护；新增技能时在对应页面追加一节即可，不需要重排编号。
 
