@@ -126,7 +126,7 @@
 | 《珍馐记》 · `xin-lady-style-zhenxiuji` | 珍馐记文风、珍馐记风格 |
 | 《折腰》 · `xin-lady-style-zheyao` | 折腰文风、折腰风格 |
 
-## 🎭 王朔风格（14 个）
+## 🎭 王朔风格（15 个）
 
 | 技能 | 触发词 |
 | --- | --- |
@@ -140,6 +140,7 @@
 | 《起初·绝地天通》 · `xin-wangshuo-style-qichu-jueditiantong` | 起初绝地天通文风、王朔文风 |
 | 《起初·鱼甜》 · `xin-wangshuo-style-qichu-yutian` | 起初鱼甜文风、王朔文风 |
 | 《起初·竹书》 · `xin-wangshuo-style-qichu-zhushu` | 起初竹书文风、王朔文风 |
+| 《玩的就是心跳》 · `xin-wangshuo-style-wandezhuoshixintiao` | 玩的就是心跳文风、王朔文风 |
 | 《顽主》 · `xin-wangshuo-style-wanzhu` | 顽主文风、王朔文风 |
 | 《我是你爸爸》 · `xin-wangshuo-style-woshinibaba` | 我是你爸爸文风、王朔文风 |
 | 《一半是火焰 一半是海水》 · `xin-wangshuo-style-yibanshihuoyan-yibanshihaishui` | 一半是火焰一半是海水文风、王朔文风 |
