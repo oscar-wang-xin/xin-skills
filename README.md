@@ -227,10 +227,10 @@ npx skills add oscar-wang-xin/xin-skills
 npx skills add oscar-wang-xin/xin-skills --list
 
 # 只安装指定技能（--skill 用 SKILL.md 的 ASCII name，可重复多次）
-npx skills add oscar-wang-xin/xin-skills --skill xin-fanqie-style-jianqi-baiyujing
+npx skills add oscar-wang-xin/xin-skills --skill xin-fanqie-style-baiyujing
 
 # 想给某个技能装成自定义 ASCII 名（可选）
-npx skills add oscar-wang-xin/xin-skills --skill xin-fanqie-style-jianqi-baiyujing --rename my-jianqi-baiyujing
+npx skills add oscar-wang-xin/xin-skills --skill xin-fanqie-style-baiyujing --rename my-baiyujing
 
 # 指定目标 Agent 并跳过交互提示
 npx skills add oscar-wang-xin/xin-skills -a reasonix -a claude-code -y
